@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The investment thesis: persist or pivot</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Track confidence in your thesis — persist while it rises, pivot when it won't recover</text>
+
+  <!-- Thesis box -->
+  <rect x="360" y="120" width="320" height="56" rx="12" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="520" y="144" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">Write the thesis</text>
+  <text x="520" y="163" text-anchor="middle" font-size="12.5" fill="#5A6475">your edge: what you know others don't</text>
+
+  <!-- arrow down -->
+  <path d="M520 176 L520 200" stroke="#C2CAD6" stroke-width="2.5"/>
+  <path d="M520 200 l-6 -12 l12 0 z" fill="#C2CAD6"/>
+
+  <!-- Battlefield box -->
+  <rect x="360" y="200" width="320" height="56" rx="12" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="520" y="224" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">Ship &amp; gather data</text>
+  <text x="520" y="243" text-anchor="middle" font-size="12.5" fill="#5A6475">market signals · talk to smart people</text>
+
+  <!-- arrow down to diamond -->
+  <path d="M520 256 L520 282" stroke="#C2CAD6" stroke-width="2.5"/>
+  <path d="M520 282 l-6 -12 l12 0 z" fill="#C2CAD6"/>
+
+  <!-- Diamond -->
+  <path d="M520 286 L626 346 L520 406 L414 346 Z" fill="#1A1A1A"/>
+  <text x="520" y="342" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Confidence</text>
+  <text x="520" y="360" text-anchor="middle" font-size="13" fill="#F1592A">↑ or ↓ ?</text>
+
+  <!-- left branch: increasing -> persist -->
+  <path d="M414 346 L250 346" fill="none" stroke="#5A6475" stroke-width="2.5"/>
+  <path d="M250 346 l12 -6 l0 12 z" fill="#5A6475"/>
+  <text x="332" y="334" text-anchor="middle" font-size="13" font-weight="700" fill="#1A8A4A">rising</text>
+  <rect x="80" y="318" width="170" height="56" rx="12" fill="#EAF6EE" stroke="#1A8A4A" stroke-width="1.5"/>
+  <text x="165" y="342" text-anchor="middle" font-size="15" font-weight="700" fill="#1A6B3A">Persist</text>
+  <text x="165" y="361" text-anchor="middle" font-size="12" fill="#5A6475">even through the valley</text>
+  <!-- persist loops back up to battlefield -->
+  <path d="M165 318 C165 228 240 228 358 228" fill="none" stroke="#1A8A4A" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M358 228 l-14 -6 l4 12 z" fill="#1A8A4A"/>
+
+  <!-- down branch: decreasing -> intense mode -->
+  <path d="M520 406 L520 432" fill="none" stroke="#5A6475" stroke-width="2.5"/>
+  <path d="M520 432 l-6 -12 l12 0 z" fill="#5A6475"/>
+  <text x="560" y="424" text-anchor="middle" font-size="13" font-weight="700" fill="#C2552E">flat / falling</text>
+  <rect x="360" y="432" width="320" height="52" rx="12" fill="#FFF1EA" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="520" y="455" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">Intense mode</text>
+  <text x="520" y="473" text-anchor="middle" font-size="12.5" fill="#5A6475">act to rebuild confidence</text>
+
+  <!-- intense -> pivot -->
+  <path d="M680 458 L760 458" fill="none" stroke="#5A6475" stroke-width="2.5"/>
+  <path d="M760 458 l-12 -6 l0 12 z" fill="#5A6475"/>
+  <text x="722" y="446" text-anchor="middle" font-size="12" fill="#5A6475">can't recover</text>
+  <rect x="760" y="430" width="170" height="56" rx="12" fill="#F1592A"/>
+  <text x="845" y="454" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">Pivot</text>
+  <text x="845" y="473" text-anchor="middle" font-size="12" fill="#FFE3D6">don't wait for the wall</text>
+
+  <text x="520" y="528" text-anchor="middle" font-size="14" fill="#8A94A6">Data lives within the vision — and sometimes what you learn changes the vision itself.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">A great founder holds both — not either/or</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Each is a dial you shift by judgment — 90% one way now, 80% the other later</text>
+
+  <!-- rows: left label (right-aligned at 330), track 360..680, right label (left-aligned at 710) -->
+  <!-- helper: each row baseline -->
+  <!-- Row 1 -->
+  <g>
+    <text x="330" y="151" text-anchor="end" font-size="15" font-weight="700" fill="#1A1A1A">Do the work</text>
+    <line x1="360" y1="146" x2="680" y2="146" stroke="#E2E6ED" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="520" cy="146" r="9" fill="#F1592A"/>
+    <text x="710" y="151" font-size="15" font-weight="700" fill="#1A1A1A">Delegate</text>
+  </g>
+  <!-- Row 2 -->
+  <g>
+    <text x="330" y="201" text-anchor="end" font-size="15" font-weight="700" fill="#1A1A1A">Persistent</text>
+    <line x1="360" y1="196" x2="680" y2="196" stroke="#E2E6ED" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="455" cy="196" r="9" fill="#F1592A"/>
+    <text x="710" y="201" font-size="15" font-weight="700" fill="#1A1A1A">Flexible</text>
+  </g>
+  <!-- Row 3 -->
+  <g>
+    <text x="330" y="251" text-anchor="end" font-size="15" font-weight="700" fill="#1A1A1A">Belief</text>
+    <line x1="360" y1="246" x2="680" y2="246" stroke="#E2E6ED" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="520" cy="246" r="9" fill="#F1592A"/>
+    <text x="710" y="251" font-size="15" font-weight="700" fill="#1A1A1A">Fear / paranoia</text>
+  </g>
+  <!-- Row 4 -->
+  <g>
+    <text x="330" y="301" text-anchor="end" font-size="15" font-weight="700" fill="#1A1A1A">Vision</text>
+    <line x1="360" y1="296" x2="680" y2="296" stroke="#E2E6ED" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="450" cy="296" r="9" fill="#F1592A"/>
+    <text x="710" y="301" font-size="15" font-weight="700" fill="#1A1A1A">Data</text>
+  </g>
+  <!-- Row 5 -->
+  <g>
+    <text x="330" y="351" text-anchor="end" font-size="15" font-weight="700" fill="#1A1A1A">Long-term vision</text>
+    <line x1="360" y1="346" x2="680" y2="346" stroke="#E2E6ED" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="588" cy="346" r="9" fill="#F1592A"/>
+    <text x="710" y="351" font-size="15" font-weight="700" fill="#1A1A1A">Near-term problem</text>
+  </g>
+  <!-- Row 6 -->
+  <g>
+    <text x="330" y="401" text-anchor="end" font-size="15" font-weight="700" fill="#1A1A1A">Bold risk</text>
+    <line x1="360" y1="396" x2="680" y2="396" stroke="#E2E6ED" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="520" cy="396" r="9" fill="#F1592A"/>
+    <text x="710" y="401" font-size="15" font-weight="700" fill="#1A1A1A">Minimize the rest</text>
+  </g>
+
+  <text x="520" y="466" text-anchor="middle" font-size="14.5" fill="#5A6475">Data only exists inside the framework of a vision. Take one focused risk, then minimize the others.</text>
+  <text x="520" y="508" text-anchor="middle" font-size="14" fill="#8A94A6">"Default dead" — entrepreneurship is jumping off a cliff and assembling an airplane on the way down.</text>
+</svg>
