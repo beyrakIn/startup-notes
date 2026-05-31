@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Vesting: 4 years, 1-year cliff</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">The Silicon Valley standard — leave early and the company buys the unvested shares back</text>
+
+  <!-- axes: x 130..900 = 0..4 yrs; y 440 (0%) .. 140 (100%) -->
+  <line x1="130" y1="140" x2="130" y2="440" stroke="#D8DCE4" stroke-width="2"/>
+  <line x1="130" y1="440" x2="930" y2="440" stroke="#D8DCE4" stroke-width="2"/>
+
+  <!-- y gridlines + labels -->
+  <g stroke="#EEF1F5" stroke-width="1">
+    <line x1="130" y1="365" x2="900" y2="365"/>
+    <line x1="130" y1="290" x2="900" y2="290"/>
+    <line x1="130" y1="215" x2="900" y2="215"/>
+  </g>
+  <g font-size="12" fill="#9AA3B2" text-anchor="end">
+    <text x="120" y="445">0%</text>
+    <text x="120" y="369">25%</text>
+    <text x="120" y="294">50%</text>
+    <text x="120" y="219">75%</text>
+    <text x="120" y="145">100%</text>
+  </g>
+  <!-- x labels -->
+  <g font-size="12" fill="#9AA3B2" text-anchor="middle">
+    <text x="322" y="462">1 yr</text>
+    <text x="515" y="462">2 yr</text>
+    <text x="707" y="462">3 yr</text>
+    <text x="900" y="462">4 yr</text>
+  </g>
+
+  <!-- the cliff zone shading -->
+  <rect x="130" y="140" width="192" height="300" fill="#FBEDED" opacity="0.6"/>
+
+  <!-- vesting path: flat 0% to 1yr, jump to 25%, linear to 100% at 4yr -->
+  <path d="M130 440 L322 440 L322 365 L900 140" fill="none" stroke="#F1592A" stroke-width="4" stroke-linejoin="round"/>
+  <!-- cliff jump dots -->
+  <circle cx="322" cy="440" r="5" fill="#F1592A"/>
+  <circle cx="322" cy="365" r="6" fill="#F1592A"/>
+  <circle cx="900" cy="140" r="6" fill="#F1592A"/>
+
+  <!-- annotations -->
+  <line x1="322" y1="140" x2="322" y2="440" stroke="#C0392B" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <text x="226" y="420" text-anchor="middle" font-size="12.5" font-weight="700" fill="#A5281C">the cliff</text>
+  <text x="226" y="120" text-anchor="middle" font-size="12.5" fill="#5A6475">leave before 1 yr</text>
+  <text x="226" y="136" text-anchor="middle" font-size="12.5" font-weight="700" fill="#A5281C">→ 0 shares</text>
+
+  <text x="340" y="352" font-size="12.5" font-weight="700" fill="#C2552E">25% at the 1-yr mark</text>
+  <text x="730" y="170" font-size="12.5" font-weight="700" fill="#C2552E">then monthly → 100%</text>
+
+  <text x="520" y="512" text-anchor="middle" font-size="14" fill="#8A94A6">Why? So a departing founder can't walk off with a huge stake — and to keep skin in the game. Solo founders too.</text>
+</svg>

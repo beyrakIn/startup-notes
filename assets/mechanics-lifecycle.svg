@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Founder mechanics, stage by stage</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">The one thing to get right — and the horror story to avoid — at each step</text>
+
+  <!-- 2 rows x 3 cards. card w=290 h=180; cols x=50,375,700; rows y=118,318 -->
+  <!-- helper macro inline -->
+  <!-- Card 1: Form -->
+  <rect x="50" y="118" width="290" height="180" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <circle cx="84" cy="152" r="15" fill="#F1592A"/><text x="84" y="157" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">1</text>
+  <text x="112" y="157" font-size="18" font-weight="700" fill="#1A1A1A">Form</text>
+  <text x="72" y="194" font-size="13.5" fill="#1A1A1A">✓ Delaware C-corp · assign IP</text>
+  <text x="72" y="216" font-size="13.5" fill="#1A1A1A">✓ keep signed docs safe</text>
+  <text x="72" y="256" font-size="12.5" fill="#A5281C">✗ a Florida/CT LLC →</text>
+  <text x="72" y="274" font-size="12.5" fill="#A5281C">$500k conversion mistake</text>
+
+  <!-- Card 2: Equity -->
+  <rect x="375" y="118" width="290" height="180" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <circle cx="409" cy="152" r="15" fill="#F1592A"/><text x="409" y="157" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">2</text>
+  <text x="437" y="157" font-size="18" font-weight="700" fill="#1A1A1A">Equity</text>
+  <text x="397" y="194" font-size="13.5" fill="#1A1A1A">✓ split ≈ equal · 4yr/1yr vest</text>
+  <text x="397" y="216" font-size="13.5" fill="#1A1A1A">✓ file 83(b) — keep proof</text>
+  <text x="397" y="256" font-size="12.5" fill="#A5281C">✗ over-reward the "idea"</text>
+  <text x="397" y="274" font-size="12.5" fill="#A5281C">founder · skip the 83(b)</text>
+
+  <!-- Card 3: Raise -->
+  <rect x="700" y="118" width="290" height="180" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <circle cx="734" cy="152" r="15" fill="#F1592A"/><text x="734" y="157" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">3</text>
+  <text x="762" y="157" font-size="18" font-weight="700" fill="#1A1A1A">Raise</text>
+  <text x="722" y="194" font-size="13.5" fill="#1A1A1A">✓ standard SAFE + cap</text>
+  <text x="722" y="216" font-size="13.5" fill="#1A1A1A">✓ accredited investors · map dilution</text>
+  <text x="722" y="256" font-size="12.5" fill="#A5281C">✗ uncle/neighbor checks</text>
+  <text x="722" y="274" font-size="12.5" fill="#A5281C">that ask for money back</text>
+
+  <!-- Card 4: Spend -->
+  <rect x="50" y="318" width="290" height="180" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <circle cx="84" cy="352" r="15" fill="#F1592A"/><text x="84" y="357" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">4</text>
+  <text x="112" y="357" font-size="18" font-weight="700" fill="#1A1A1A">Spend</text>
+  <text x="72" y="394" font-size="13.5" fill="#1A1A1A">✓ company account only</text>
+  <text x="72" y="416" font-size="13.5" fill="#1A1A1A">✓ keep receipts</text>
+  <text x="72" y="456" font-size="12.5" fill="#A5281C">✗ investor money to Vegas</text>
+  <text x="72" y="474" font-size="12.5" fill="#A5281C">(it's stealing → fired)</text>
+
+  <!-- Card 5: Hire -->
+  <rect x="375" y="318" width="290" height="180" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <circle cx="409" cy="352" r="15" fill="#F1592A"/><text x="409" y="357" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">5</text>
+  <text x="437" y="357" font-size="18" font-weight="700" fill="#1A1A1A">Hire</text>
+  <text x="397" y="394" font-size="13.5" fill="#1A1A1A">✓ employee vs contractor (W-2/1099)</text>
+  <text x="397" y="416" font-size="13.5" fill="#1A1A1A">✓ payroll service · assign IP</text>
+  <text x="397" y="456" font-size="12.5" fill="#A5281C">✗ skip payroll taxes</text>
+  <text x="397" y="474" font-size="12.5" fill="#A5281C">(disaster — even jail)</text>
+
+  <!-- Card 6: Fire -->
+  <rect x="700" y="318" width="290" height="180" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <circle cx="734" cy="352" r="15" fill="#F1592A"/><text x="734" y="357" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">6</text>
+  <text x="762" y="357" font-size="18" font-weight="700" fill="#1A1A1A">Fire</text>
+  <text x="722" y="394" font-size="13.5" fill="#1A1A1A">✓ fast · clear · pay wages now</text>
+  <text x="722" y="416" font-size="13.5" fill="#1A1A1A">✓ cut access · buy back shares</text>
+  <text x="722" y="456" font-size="12.5" fill="#A5281C">✗ let it linger / leave the</text>
+  <text x="722" y="474" font-size="12.5" fill="#A5281C">GitHub password live</text>
+
+  <text x="520" y="532" text-anchor="middle" font-size="14" fill="#8A94A6">Keep it simple, keep it organized — and know your cash position, burn rate, and runway.</text>
+</svg>
