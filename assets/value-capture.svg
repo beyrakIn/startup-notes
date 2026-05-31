@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Value = X × Y</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Create X dollars of value · capture Y% of it · the two are independent</text>
+
+  <!-- Legend -->
+  <rect x="372" y="108" width="14" height="14" rx="2" fill="#D8DCE4"/>
+  <text x="392" y="120" font-size="13" fill="#5A6475">value created (X)</text>
+  <rect x="520" y="108" width="14" height="14" rx="2" fill="#F1592A"/>
+  <text x="540" y="120" font-size="13" fill="#5A6475">value captured (Y% of X = profit)</text>
+
+  <!-- ===== Airlines: huge X, tiny Y ===== -->
+  <g>
+    <!-- X block -->
+    <rect x="190" y="170" width="180" height="280" rx="4" fill="#EEF1F5" stroke="#D8DCE4" stroke-width="1.5"/>
+    <!-- Y captured sliver -->
+    <rect x="190" y="438" width="180" height="12" rx="2" fill="#F1592A"/>
+    <text x="280" y="200" text-anchor="middle" font-size="20" font-weight="700" fill="#5A6475">Airlines</text>
+    <text x="280" y="300" text-anchor="middle" font-size="13" fill="#9AA3B2">huge value</text>
+    <text x="280" y="320" text-anchor="middle" font-size="13" fill="#9AA3B2">to the world</text>
+    <text x="280" y="490" text-anchor="middle" font-size="14" fill="#1A1A1A">$195B revenue</text>
+    <text x="280" y="510" text-anchor="middle" font-size="13" font-weight="700" fill="#F1592A">~$0 profit (100 yrs)</text>
+  </g>
+
+  <!-- big X, tiny Y arrow callout -->
+  <text x="396" y="448" font-size="12" fill="#F1592A">← tiny Y</text>
+
+  <!-- ===== Google: smaller X, big Y ===== -->
+  <g>
+    <!-- X block (smaller) -->
+    <rect x="640" y="270" width="180" height="180" rx="4" fill="#EEF1F5" stroke="#D8DCE4" stroke-width="1.5"/>
+    <!-- Y captured chunk (large share) -->
+    <rect x="640" y="320" width="180" height="130" rx="4" fill="#F1592A"/>
+    <text x="730" y="252" text-anchor="middle" font-size="20" font-weight="700" fill="#1A1A1A">Google / Search</text>
+    <text x="730" y="398" text-anchor="middle" font-size="13" fill="#ffffff" font-weight="600">captures most</text>
+    <text x="730" y="418" text-anchor="middle" font-size="13" fill="#ffffff" font-weight="600">of the value</text>
+    <text x="730" y="490" text-anchor="middle" font-size="14" fill="#1A1A1A">$50B revenue</text>
+    <text x="730" y="510" text-anchor="middle" font-size="13" font-weight="700" fill="#F1592A">hugely profitable</text>
+  </g>
+
+  <text x="856" y="392" font-size="12" fill="#F1592A">big Y →</text>
+
+  <text x="520" y="544" text-anchor="middle" font-size="14" fill="#8A94A6">Smaller market, bigger capture: Google's market cap is ~4× all US airlines combined.</text>
+</svg>

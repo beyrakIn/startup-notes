@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Start small, expand in concentric circles</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Dominate a market so small it looks worthless — then grow outward</text>
+
+  <!-- Concentric rings, centered (350, 320) -->
+  <g>
+    <circle cx="350" cy="320" r="180" fill="#F9FBFC" stroke="#E2E6ED" stroke-width="1.5"/>
+    <circle cx="350" cy="320" r="130" fill="#FDEEE7" stroke="#F6C3AC" stroke-width="1.5"/>
+    <circle cx="350" cy="320" r="80" fill="#F9C9B4" stroke="#F1592A" stroke-width="1.5"/>
+    <circle cx="350" cy="320" r="40" fill="#F1592A"/>
+  </g>
+
+  <!-- core label -->
+  <text x="350" y="316" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">tiny</text>
+  <text x="350" y="332" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">market</text>
+
+  <!-- ring labels -->
+  <text x="350" y="408" text-anchor="middle" font-size="12" font-weight="600" fill="#C2552E">dominate it</text>
+  <text x="350" y="458" text-anchor="middle" font-size="12" font-weight="600" fill="#D98B66">expand</text>
+  <text x="350" y="492" text-anchor="middle" font-size="12" font-weight="600" fill="#9AA3B2">huge market · monopoly</text>
+
+  <!-- outward arrow -->
+  <path d="M350 320 C470 300 540 250 560 200" fill="none" stroke="#1A1A1A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M560 200 l-2 15 l11 -8 z" fill="#1A1A1A"/>
+
+  <!-- examples panel -->
+  <line x1="650" y1="170" x2="650" y2="470" stroke="#E2E6ED" stroke-width="2"/>
+  <text x="678" y="196" font-size="16" font-weight="700" fill="#1A1A1A">Beachhead → world</text>
+
+  <g font-size="14">
+    <circle cx="686" cy="236" r="4" fill="#F1592A"/>
+    <text x="700" y="241" fill="#1A1A1A" font-weight="700">PayPal</text>
+    <text x="700" y="261" fill="#5A6475">~20k eBay power sellers</text>
+
+    <circle cx="686" cy="296" r="4" fill="#F1592A"/>
+    <text x="700" y="301" fill="#1A1A1A" font-weight="700">Facebook</text>
+    <text x="700" y="321" fill="#5A6475">10k Harvard students → 60% in 10 days</text>
+
+    <circle cx="686" cy="356" r="4" fill="#F1592A"/>
+    <text x="700" y="361" fill="#1A1A1A" font-weight="700">Amazon</text>
+    <text x="700" y="381" fill="#5A6475">all the books → all of e-commerce</text>
+
+    <circle cx="686" cy="416" r="4" fill="#F1592A"/>
+    <text x="700" y="421" fill="#1A1A1A" font-weight="700">eBay</text>
+    <text x="700" y="441" fill="#5A6475">Pez dispensers → every auction</text>
+  </g>
+
+  <text x="520" y="540" text-anchor="middle" font-size="14" fill="#8A94A6">Going after a giant market on day one = a minnow in a vast ocean. Don't be the 100th restaurant in Palo Alto.</text>
+</svg>
