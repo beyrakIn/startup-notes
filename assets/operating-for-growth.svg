@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="60" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Operating for growth</text>
+  <text x="520" y="90" text-anchor="middle" font-size="16" fill="#8A94A6">No growth team — the whole company is the growth team, and the CEO leads it</text>
+
+  <!-- connecting line -->
+  <line x1="170" y1="270" x2="870" y2="270" stroke="#F6C3AC" stroke-width="3"/>
+
+  <!-- Card 1: North Star -->
+  <g>
+    <circle cx="190" cy="270" r="11" fill="#F1592A"/>
+    <rect x="70" y="300" width="240" height="190" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <!-- star icon -->
+    <path d="M190 150 l11 22 24 4 -17 17 4 24 -22 -11 -22 11 4 -24 -17 -17 24 -4 z" fill="#F1592A"/>
+    <text x="190" y="334" text-anchor="middle" font-size="20" font-weight="700" fill="#1A1A1A">1 · North Star</text>
+    <text x="190" y="364" text-anchor="middle" font-size="13" fill="#5A6475">One metric everyone drives,</text>
+    <text x="190" y="382" text-anchor="middle" font-size="13" fill="#5A6475">set by the leader.</text>
+    <text x="190" y="414" text-anchor="middle" font-size="12.5" fill="#9AA3B2">FB = active users · WhatsApp = sends</text>
+    <text x="190" y="432" text-anchor="middle" font-size="12.5" fill="#9AA3B2">Airbnb = nights · eBay = GMV</text>
+    <text x="190" y="464" text-anchor="middle" font-size="11.5" font-style="italic" fill="#C2552E">clear even when you're away</text>
+  </g>
+
+  <!-- Card 2: Magic Moment -->
+  <g>
+    <circle cx="520" cy="270" r="11" fill="#F1592A"/>
+    <rect x="400" y="300" width="240" height="190" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <!-- spark icon -->
+    <g stroke="#F1592A" stroke-width="3.5" stroke-linecap="round">
+      <line x1="520" y1="148" x2="520" y2="172"/>
+      <line x1="520" y1="200" x2="520" y2="224"/>
+      <line x1="484" y1="186" x2="508" y2="186"/>
+      <line x1="532" y1="186" x2="556" y2="186"/>
+      <line x1="496" y1="162" x2="512" y2="178"/>
+      <line x1="528" y1="194" x2="544" y2="210"/>
+      <line x1="544" y1="162" x2="528" y2="178"/>
+      <line x1="512" y1="194" x2="496" y2="210"/>
+    </g>
+    <text x="520" y="334" text-anchor="middle" font-size="20" font-weight="700" fill="#1A1A1A">2 · Magic Moment</text>
+    <text x="520" y="364" text-anchor="middle" font-size="13" fill="#5A6475">The instant a user gets hooked —</text>
+    <text x="520" y="382" text-anchor="middle" font-size="13" fill="#5A6475">get them there fast.</text>
+    <text x="520" y="414" text-anchor="middle" font-size="12.5" fill="#9AA3B2">FB = see a friend's face</text>
+    <text x="520" y="432" text-anchor="middle" font-size="12.5" fill="#9AA3B2">→ "10 friends in 14 days"</text>
+    <text x="520" y="464" text-anchor="middle" font-size="12.5" font-style="italic" fill="#C2552E">moves the retention asymptote up</text>
+  </g>
+
+  <!-- Card 3: Marginal User -->
+  <g>
+    <circle cx="850" cy="270" r="11" fill="#F1592A"/>
+    <rect x="730" y="300" width="240" height="190" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <!-- person-on-edge icon -->
+    <g stroke="#F1592A" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="850" cy="170" r="13"/>
+      <path d="M828 214 Q850 182 872 214"/>
+    </g>
+    <circle cx="884" cy="200" r="4" fill="#F1592A"/>
+    <text x="850" y="334" text-anchor="middle" font-size="20" font-weight="700" fill="#1A1A1A">3 · Marginal User</text>
+    <text x="850" y="364" text-anchor="middle" font-size="13" fill="#5A6475">Optimize growth for them —</text>
+    <text x="850" y="382" text-anchor="middle" font-size="13" fill="#5A6475">not yourself or power users.</text>
+    <text x="850" y="414" text-anchor="middle" font-size="12.5" fill="#9AA3B2">churning / resurrecting,</text>
+    <text x="850" y="432" text-anchor="middle" font-size="12.5" fill="#9AA3B2">low friend count</text>
+    <text x="850" y="464" text-anchor="middle" font-size="11.5" font-style="italic" fill="#C2552E">they dominate growth later on</text>
+  </g>
+
+  <text x="520" y="528" text-anchor="middle" font-size="14" fill="#8A94A6">Foundation underneath all three: retention. If the curve doesn't flatten, fix the product before any of this.</text>
+</svg>

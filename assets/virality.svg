@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="60" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Virality has three levers</text>
+  <text x="520" y="90" text-anchor="middle" font-size="16" fill="#8A94A6">Sean Parker's model — you don't need all three, you need the product to multiply &gt; 1</text>
+
+  <!-- Three levers as a multiplication -->
+  <g>
+    <!-- Payload -->
+    <rect x="96" y="140" width="230" height="150" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="211" y="186" text-anchor="middle" font-size="20" font-weight="700" fill="#F1592A">Payload</text>
+    <text x="211" y="220" text-anchor="middle" font-size="13" fill="#5A6475">how many people each</text>
+    <text x="211" y="238" text-anchor="middle" font-size="13" fill="#5A6475">viral blast can hit</text>
+    <text x="211" y="268" text-anchor="middle" font-size="12.5" fill="#9AA3B2">(contacts imported per share)</text>
+
+    <text x="360" y="226" text-anchor="middle" font-size="34" font-weight="700" fill="#C2CAD6">×</text>
+
+    <!-- Conversion -->
+    <rect x="405" y="140" width="230" height="150" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="520" y="186" text-anchor="middle" font-size="20" font-weight="700" fill="#F1592A">Conversion</text>
+    <text x="520" y="220" text-anchor="middle" font-size="13" fill="#5A6475">% of those hit who</text>
+    <text x="520" y="238" text-anchor="middle" font-size="13" fill="#5A6475">actually sign up</text>
+    <text x="520" y="268" text-anchor="middle" font-size="12.5" fill="#9AA3B2">(kill friction to raise it)</text>
+
+    <text x="669" y="226" text-anchor="middle" font-size="34" font-weight="700" fill="#C2CAD6">×</text>
+
+    <!-- Frequency -->
+    <rect x="714" y="140" width="230" height="150" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="829" y="186" text-anchor="middle" font-size="20" font-weight="700" fill="#F1592A">Frequency</text>
+    <text x="829" y="220" text-anchor="middle" font-size="13" fill="#5A6475">how often the loop</text>
+    <text x="829" y="238" text-anchor="middle" font-size="13" fill="#5A6475">fires per user</text>
+    <text x="829" y="268" text-anchor="middle" font-size="12.5" fill="#9AA3B2">(same message → conversion fades)</text>
+  </g>
+
+  <!-- examples -->
+  <text x="120" y="346" font-size="15" font-weight="700" fill="#1A1A1A">Which lever drove each:</text>
+  <g font-size="14">
+    <circle cx="128" cy="384" r="4" fill="#F1592A"/>
+    <text x="142" y="389" fill="#1A1A1A" font-weight="700">Hotmail</text>
+    <text x="232" y="389" fill="#5A6475">high frequency + high conversion ("PS: get your free email")</text>
+
+    <circle cx="128" cy="418" r="4" fill="#F1592A"/>
+    <text x="142" y="423" fill="#1A1A1A" font-weight="700">PayPal</text>
+    <text x="232" y="423" fill="#5A6475">high conversion (who refuses money? + $10) — rode eBay as its channel</text>
+
+    <circle cx="128" cy="452" r="4" fill="#F1592A"/>
+    <text x="142" y="457" fill="#1A1A1A" font-weight="700">Facebook</text>
+    <text x="232" y="457" fill="#5A6475">none of these — pure word of mouth, because the product was worth sharing</text>
+  </g>
+
+  <!-- retention caveat -->
+  <rect x="96" y="486" width="848" height="44" rx="10" fill="#1A1A1A"/>
+  <text x="520" y="513" text-anchor="middle" font-size="14" fill="#ffffff">K &gt; 1 = viral — but <tspan fill="#F1592A" font-weight="700">K &gt; 1 with bad retention is worthless.</tspan> Earn retention first.</text>
+</svg>
