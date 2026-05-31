@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="60" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Momentum is the lifeblood</text>
+  <text x="520" y="90" text-anchor="middle" font-size="16" fill="#8A94A6">A viral coefficient a hair above or below 1.0 decides everything</text>
+
+  <!-- Axes -->
+  <line x1="110" y1="460" x2="950" y2="460" stroke="#D8DCE4" stroke-width="2"/>
+  <line x1="110" y1="120" x2="110" y2="460" stroke="#D8DCE4" stroke-width="2"/>
+  <text x="530" y="505" text-anchor="middle" font-size="14" fill="#8A94A6">Time  →</text>
+  <text x="84" y="290" text-anchor="middle" font-size="14" fill="#8A94A6" transform="rotate(-90 84 290)">Users  →</text>
+
+  <!-- Decay 0.99 (gray) -->
+  <path d="M120 432 C380 442 650 452 940 456" fill="none" stroke="#B8C0CE" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="940" cy="456" r="6" fill="#B8C0CE"/>
+  <text x="930" y="436" text-anchor="end" font-size="17" font-weight="700" fill="#5A6475">0.99 → flatlines &amp; dies</text>
+
+  <!-- Growth 1.01 (orange) -->
+  <path d="M120 432 C470 426 660 408 775 330 C845 282 895 205 922 138" fill="none" stroke="#F1592A" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="922" cy="138" r="6" fill="#F1592A"/>
+  <text x="905" y="138" text-anchor="end" font-size="17" font-weight="700" fill="#F1592A">1.01 → exponential forever</text>
+
+  <!-- Shared start marker -->
+  <circle cx="120" cy="432" r="6" fill="#1A1A1A"/>
+  <text x="132" y="424" font-size="13" fill="#8A94A6">same start</text>
+
+  <!-- Caption -->
+  <text x="520" y="540" text-anchor="middle" font-size="14" fill="#8A94A6">“A winning team feels good and keeps winning.” Outwork competitors by a little — it compounds.</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="60" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Love &gt; Like</text>
+  <text x="520" y="90" text-anchor="middle" font-size="16" fill="#8A94A6">Same total “love” under each curve — but only one is easy to grow</text>
+
+  <!-- Axes -->
+  <line x1="110" y1="450" x2="940" y2="450" stroke="#D8DCE4" stroke-width="2"/>
+  <line x1="110" y1="130" x2="110" y2="450" stroke="#D8DCE4" stroke-width="2"/>
+  <text x="525" y="500" text-anchor="middle" font-size="14" fill="#8A94A6">Number of users  →</text>
+  <text x="84" y="290" text-anchor="middle" font-size="14" fill="#8A94A6" transform="rotate(-90 84 290)">How much they love it  →</text>
+
+  <!-- Gray "like": wide, low -->
+  <path d="M410 450 C480 450 540 320 620 320 C700 320 760 450 830 450 Z" fill="#B8C0CE" fill-opacity="0.55"/>
+  <text x="620" y="360" text-anchor="middle" font-size="20" font-weight="700" fill="#5A6475">like</text>
+  <text x="620" y="430" text-anchor="middle" font-size="13" fill="#5A6475">a large number of users,</text>
+  <text x="620" y="447" text-anchor="middle" font-size="13" fill="#5A6475">a little</text>
+
+  <!-- Orange "love": narrow, tall -->
+  <path d="M230 450 C262 450 272 155 300 155 C328 155 338 450 370 450 Z" fill="#F1592A" fill-opacity="0.85"/>
+  <text x="300" y="306" text-anchor="middle" font-size="26" font-weight="800" fill="#ffffff" letter-spacing="3" transform="rotate(-90 300 306)">LOVE</text>
+  <text x="300" y="430" text-anchor="middle" font-size="12" fill="#ffffff" font-weight="600">a small number</text>
+  <text x="300" y="445" text-anchor="middle" font-size="12" fill="#ffffff" font-weight="600">of users, a lot</text>
+
+  <!-- Word-of-mouth arrow off the love peak -->
+  <path d="M345 175 C430 150 540 150 690 175" fill="none" stroke="#F1592A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M690 175 l-13 -7 l3 12 z" fill="#F1592A"/>
+  <text x="520" y="142" text-anchor="middle" font-size="14" font-weight="600" fill="#F1592A">grows by word of mouth →</text>
+
+  <!-- Caption -->
+  <text x="520" y="535" text-anchor="middle" font-size="14" fill="#8A94A6">“It’s much easier to expand from something a small number of people love than something a lot of people like.”</text>
+</svg>
