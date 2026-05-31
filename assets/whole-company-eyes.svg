@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">See every decision through the whole company's eyes</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Not just your view, or the person in the room — add up everyone who isn't there</text>
+
+  <!-- central decision -->
+  <circle cx="300" cy="300" r="72" fill="#1A1A1A"/>
+  <text x="300" y="294" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">a critical</text>
+  <text x="300" y="314" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">decision</text>
+
+  <!-- You -->
+  <circle cx="150" cy="160" r="16" fill="#B8C0CE"/>
+  <text x="150" y="132" text-anchor="middle" font-size="13.5" font-weight="700" fill="#5A6475">You</text>
+  <path d="M168 178 C210 215 235 240 252 258" fill="none" stroke="#C2CAD6" stroke-width="2.5"/>
+
+  <!-- The person in the room -->
+  <circle cx="150" cy="440" r="16" fill="#B8C0CE"/>
+  <text x="150" y="478" text-anchor="middle" font-size="13.5" font-weight="700" fill="#5A6475">The person in the room</text>
+  <path d="M168 422 C210 385 235 360 252 342" fill="none" stroke="#C2CAD6" stroke-width="2.5"/>
+
+  <!-- Everyone not in the room (the emphasis) -->
+  <rect x="560" y="150" width="400" height="300" rx="16" fill="#FFF8F5" stroke="#F1592A" stroke-width="2"/>
+  <text x="760" y="184" text-anchor="middle" font-size="18" font-weight="800" fill="#F1592A">Everyone NOT in the room</text>
+  <text x="760" y="206" text-anchor="middle" font-size="13" font-style="italic" fill="#9AA3B2">the view people forget — and it decides the outcome</text>
+  <g fill="#F6A07A">
+    <circle cx="610" cy="246" r="9"/><circle cx="648" cy="246" r="9"/><circle cx="686" cy="246" r="9"/><circle cx="724" cy="246" r="9"/><circle cx="762" cy="246" r="9"/><circle cx="800" cy="246" r="9"/><circle cx="838" cy="246" r="9"/><circle cx="876" cy="246" r="9"/><circle cx="914" cy="246" r="9"/>
+    <circle cx="610" cy="286" r="9"/><circle cx="648" cy="286" r="9"/><circle cx="686" cy="286" r="9"/><circle cx="724" cy="286" r="9"/><circle cx="762" cy="286" r="9"/><circle cx="800" cy="286" r="9"/><circle cx="838" cy="286" r="9"/><circle cx="876" cy="286" r="9"/><circle cx="914" cy="286" r="9"/>
+    <circle cx="610" cy="326" r="9"/><circle cx="648" cy="326" r="9"/><circle cx="686" cy="326" r="9"/><circle cx="724" cy="326" r="9"/><circle cx="762" cy="326" r="9"/><circle cx="800" cy="326" r="9"/><circle cx="838" cy="326" r="9"/><circle cx="876" cy="326" r="9"/><circle cx="914" cy="326" r="9"/>
+    <circle cx="610" cy="366" r="9"/><circle cx="648" cy="366" r="9"/><circle cx="686" cy="366" r="9"/><circle cx="724" cy="366" r="9"/><circle cx="762" cy="366" r="9"/><circle cx="800" cy="366" r="9"/><circle cx="838" cy="366" r="9"/><circle cx="876" cy="366" r="9"/><circle cx="914" cy="366" r="9"/>
+  </g>
+  <text x="760" y="416" text-anchor="middle" font-size="13" fill="#5A6475">they hear about it, compare deals, and react</text>
+  <!-- big arrow from crowd to decision -->
+  <path d="M558 320 C470 320 430 312 376 304" fill="none" stroke="#F1592A" stroke-width="3.5"/>
+  <path d="M376 304 l16 -5 l-3 13 z" fill="#F1592A"/>
+
+  <text x="520" y="498" text-anchor="middle" font-size="14.5" fill="#5A6475">Add up every employee's view, then incorporate it into your own.</text>
+  <text x="520" y="528" text-anchor="middle" font-size="14" fill="#8A94A6">Skip this and a small problem becomes a "kimchi problem" — the deeper you bury it, the hotter it gets.</text>
+</svg>

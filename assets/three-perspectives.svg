@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Toussaint's three perspectives</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Weigh your own side, the other side, and the culture you're building</text>
+
+  <!-- Panel 1: your side -->
+  <rect x="60" y="120" width="290" height="300" rx="16" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="205" y="158" text-anchor="middle" font-size="19" font-weight="700" fill="#1A1A1A">Your own side</text>
+  <text x="205" y="180" text-anchor="middle" font-size="13" font-style="italic" fill="#9AA3B2">his soldiers · your employees</text>
+  <text x="205" y="220" text-anchor="middle" font-size="13.5" fill="#5A6475">They want to pillage</text>
+  <text x="205" y="240" text-anchor="middle" font-size="13.5" fill="#5A6475">and kill the enemy.</text>
+  <line x1="100" y1="266" x2="310" y2="266" stroke="#E2E6ED" stroke-width="1.5"/>
+  <text x="205" y="296" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1A1A1A">He did:</text>
+  <text x="205" y="322" text-anchor="middle" font-size="13" fill="#5A6475">banned pillaging — even</text>
+  <text x="205" y="342" text-anchor="middle" font-size="13" fill="#5A6475">officers cheating on wives —</text>
+  <text x="205" y="362" text-anchor="middle" font-size="13" fill="#5A6475">to protect the culture</text>
+
+  <!-- Panel 2: the other side -->
+  <rect x="375" y="120" width="290" height="300" rx="16" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="520" y="158" text-anchor="middle" font-size="19" font-weight="700" fill="#1A1A1A">The other side</text>
+  <text x="520" y="180" text-anchor="middle" font-size="13" font-style="italic" fill="#9AA3B2">enemies · slave owners · the departing</text>
+  <text x="520" y="220" text-anchor="middle" font-size="13.5" fill="#5A6475">Owners' economy ran on</text>
+  <text x="520" y="240" text-anchor="middle" font-size="13.5" fill="#5A6475">slave labor; he lacked the</text>
+  <text x="520" y="260" text-anchor="middle" font-size="13.5" fill="#5A6475">know-how to run sugar.</text>
+  <line x1="415" y1="280" x2="625" y2="280" stroke="#E2E6ED" stroke-width="1.5"/>
+  <text x="520" y="308" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1A1A1A">He did:</text>
+  <text x="520" y="334" text-anchor="middle" font-size="13" fill="#5A6475">end slavery · owners keep land ·</text>
+  <text x="520" y="354" text-anchor="middle" font-size="13" fill="#5A6475">pay workers · lower their taxes ·</text>
+  <text x="520" y="374" text-anchor="middle" font-size="13" fill="#5A6475">make the best ones generals</text>
+
+  <!-- Panel 3: the resulting culture (highlight) -->
+  <rect x="690" y="120" width="290" height="300" rx="16" fill="#FFF8F5" stroke="#F1592A" stroke-width="2"/>
+  <text x="835" y="158" text-anchor="middle" font-size="19" font-weight="800" fill="#F1592A">The resulting culture</text>
+  <text x="835" y="180" text-anchor="middle" font-size="13" font-style="italic" fill="#9AA3B2">the one people forget</text>
+  <text x="835" y="222" text-anchor="middle" font-size="13.5" fill="#5A6475">The army is the "seed corn"</text>
+  <text x="835" y="242" text-anchor="middle" font-size="13.5" fill="#5A6475">of the whole country.</text>
+  <line x1="730" y1="268" x2="940" y2="268" stroke="#F6C3AC" stroke-width="1.5"/>
+  <text x="835" y="298" text-anchor="middle" font-size="13.5" font-weight="700" fill="#C2552E">The goal:</text>
+  <text x="835" y="324" text-anchor="middle" font-size="13" fill="#5A6475">a world-class country that</text>
+  <text x="835" y="344" text-anchor="middle" font-size="13" fill="#5A6475">could compete globally —</text>
+  <text x="835" y="364" text-anchor="middle" font-size="13" fill="#5A6475">every decision served this</text>
+
+  <!-- results strip -->
+  <rect x="60" y="446" width="920" height="44" rx="10" fill="#1A1A1A"/>
+  <text x="520" y="473" text-anchor="middle" font-size="14" fill="#ffffff">The only successful slave revolution in history — he beat Napoleon, and Haiti <tspan fill="#F1592A" font-weight="700">out-exported the United States.</tspan></text>
+
+  <text x="520" y="522" text-anchor="middle" font-size="14" fill="#8A94A6">The third lens — the culture you're building — is the one CEOs most often skip.</text>
+</svg>
