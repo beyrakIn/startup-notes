@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Culture and brand are two sides of one coin</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Whatever you believe inside the company eventually shows up outside it</text>
+
+  <!-- two overlapping coin faces -->
+  <g>
+    <circle cx="380" cy="300" r="150" fill="#FFF4EF" stroke="#F1592A" stroke-width="2"/>
+    <circle cx="640" cy="300" r="150" fill="#FDE7DC" stroke="#F1592A" stroke-width="2"/>
+  </g>
+
+  <!-- Culture (left) -->
+  <text x="300" y="250" text-anchor="middle" font-size="22" font-weight="800" fill="#F1592A">CULTURE</text>
+  <text x="300" y="280" text-anchor="middle" font-size="13.5" fill="#5A6475">inside</text>
+  <text x="300" y="312" text-anchor="middle" font-size="13.5" fill="#1A1A1A">the beliefs your</text>
+  <text x="300" y="332" text-anchor="middle" font-size="13.5" fill="#1A1A1A">team aligns to</text>
+
+  <!-- Brand (right) -->
+  <text x="720" y="250" text-anchor="middle" font-size="22" font-weight="800" fill="#C2552E">BRAND</text>
+  <text x="720" y="280" text-anchor="middle" font-size="13.5" fill="#5A6475">outside</text>
+  <text x="720" y="312" text-anchor="middle" font-size="13.5" fill="#1A1A1A">the promise customers</text>
+  <text x="720" y="332" text-anchor="middle" font-size="13.5" fill="#1A1A1A">identify with</text>
+
+  <!-- Mission in the overlap -->
+  <text x="510" y="294" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">MISSION</text>
+  <text x="510" y="314" text-anchor="middle" font-size="11.5" fill="#9AA3B2">feeds</text>
+  <text x="510" y="330" text-anchor="middle" font-size="11.5" fill="#9AA3B2">both</text>
+
+  <!-- comes-out arrow -->
+  <path d="M455 200 C520 170 560 170 590 195" fill="none" stroke="#F1592A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M590 195 l-14 -4 l4 12 z" fill="#F1592A"/>
+  <text x="522" y="160" text-anchor="middle" font-size="13" font-weight="600" fill="#F1592A">it comes out →</text>
+
+  <text x="520" y="500" text-anchor="middle" font-size="14" fill="#8A94A6">Passionate employees → customers passionate about the brand. No good/bad culture — only strong or weak.</text>
+</svg>

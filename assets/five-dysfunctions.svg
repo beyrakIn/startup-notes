@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The five dysfunctions of a team</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Patrick Lencioni — build up from trust, or the whole thing breaks down</text>
+
+  <!-- Pyramid: apex (330,140) base y=440, base x 110..550 -->
+  <g>
+    <!-- Results (apex) -->
+    <path d="M330 140 L374 200 L286 200 Z" fill="#FDE7DC"/>
+    <text x="330" y="190" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">Results</text>
+    <!-- Accountability -->
+    <path d="M286 200 L374 200 L418 260 L242 260 Z" fill="#FBD2BE"/>
+    <text x="330" y="236" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">Accountability</text>
+    <!-- Commitment -->
+    <path d="M242 260 L418 260 L462 320 L198 320 Z" fill="#F8B597"/>
+    <text x="330" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">Commitment</text>
+    <!-- Conflict -->
+    <path d="M198 320 L462 320 L506 380 L154 380 Z" fill="#F2855B"/>
+    <text x="330" y="356" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Healthy conflict</text>
+    <!-- Trust (foundation) -->
+    <path d="M154 380 L506 380 L550 440 L110 440 Z" fill="#F1592A"/>
+    <text x="330" y="416" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">Trust</text>
+  </g>
+
+  <!-- build-up arrow -->
+  <path d="M86 440 L86 150" stroke="#C2CAD6" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M86 150 l-7 14 l14 0 z" fill="#C2CAD6"/>
+  <text x="70" y="300" text-anchor="middle" font-size="12.5" fill="#9AA3B2" transform="rotate(-90 70 300)">build from the bottom</text>
+
+  <!-- right: the dysfunctions cured -->
+  <line x1="624" y1="150" x2="624" y2="450" stroke="#E2E6ED" stroke-width="2"/>
+  <text x="652" y="176" font-size="16" font-weight="700" fill="#1A1A1A">…each cures a dysfunction</text>
+  <g font-size="14">
+    <text x="652" y="214" font-weight="700" fill="#F1592A">Trust</text>
+    <text x="652" y="234" fill="#5A6475">overcomes the absence of trust</text>
+
+    <text x="652" y="268" font-weight="700" fill="#E07B45">Conflict</text>
+    <text x="652" y="288" fill="#5A6475">overcomes fear of conflict</text>
+
+    <text x="652" y="322" font-weight="700" fill="#1A1A1A">Commitment</text>
+    <text x="652" y="342" fill="#5A6475">overcomes lack of commitment</text>
+
+    <text x="652" y="376" font-weight="700" fill="#1A1A1A">Accountability</text>
+    <text x="652" y="396" fill="#5A6475">overcomes avoidance of accountability</text>
+
+    <text x="652" y="430" font-weight="700" fill="#1A1A1A">Results</text>
+    <text x="652" y="450" fill="#5A6475">overcomes inattention to results</text>
+  </g>
+
+  <text x="520" y="500" text-anchor="middle" font-size="14" fill="#8A94A6">No trust → no debate → no commitment → no accountability → no results. Culture is the input; results are the output.</text>
+</svg>
