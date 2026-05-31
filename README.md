@@ -23,8 +23,9 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | 13 | [How to Be a Great Founder](13-how-to-be-a-great-founder-reid-hoffman.md) | Reid Hoffman — Lecture 13 | The super-founder myth, contrarian-and-right, the paradoxes, and the investment thesis. |
 | 14 | [How to Operate](14-how-to-operate-keith-rabois.md) | Keith Rabois — Lecture 14 | The editor metaphor, delegate-don't-abdicate, barrels vs ammunition, details. |
 | 15 | [How to Manage](15-how-to-manage-ben-horowitz.md) | Ben Horowitz — Lecture 15 | One concept: see every decision through the whole company's eyes; Toussaint's three perspectives. |
+| 16 | [How to Run a User Interview](16-how-to-run-a-user-interview-emmett-shear.md) | Emmett Shear — Lecture 16 | Who to talk to, behavior-not-features, the three user groups, and the money test. |
 
-> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.* Note 09 (Andreessen · Conway · Conrad) is the capital layer — *be so good they can't ignore you, and peel risk round by round.* Note 10 (Lin · Chesky) is the culture layer — *design your values and hire for them, because culture becomes brand.* Note 11 (Collisons · Silbermann) is the team-building layer — *the first ten hires are really your first hundred.* Note 12 (Aaron Levie) is the enterprise layer — *the market is 22× bigger; win it with a wedge and consumer DNA.* Note 13 (Reid Hoffman) is the founder-mindset layer — *hold the paradoxes, and persist or pivot on your thesis's confidence.* Note 14 (Keith Rabois) is the operating layer — *edit the company, and multiply your barrels.* Note 15 (Ben Horowitz) is the management layer — *every decision is read by the whole company, so weigh all three perspectives.*
+> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.* Note 09 (Andreessen · Conway · Conrad) is the capital layer — *be so good they can't ignore you, and peel risk round by round.* Note 10 (Lin · Chesky) is the culture layer — *design your values and hire for them, because culture becomes brand.* Note 11 (Collisons · Silbermann) is the team-building layer — *the first ten hires are really your first hundred.* Note 12 (Aaron Levie) is the enterprise layer — *the market is 22× bigger; win it with a wedge and consumer DNA.* Note 13 (Reid Hoffman) is the founder-mindset layer — *hold the paradoxes, and persist or pivot on your thesis's confidence.* Note 14 (Keith Rabois) is the operating layer — *edit the company, and multiply your barrels.* Note 15 (Ben Horowitz) is the management layer — *every decision is read by the whole company, so weigh all three perspectives.* Note 16 (Emmett Shear) is the user-research layer — *interview behavior not features, across all three user groups.*
 
 ## The big ideas at a glance
 
@@ -75,6 +76,8 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | **Editor's job** — simplify · question · allocate · voice | **Barrels vs ammunition** — velocity = barrels |
 | ![Whole-company eyes](assets/whole-company-eyes.svg) | ![Three perspectives](assets/three-perspectives.svg) |
 | **Whole-company eyes** — decide for everyone not in the room | **Three perspectives** — your side · theirs · the culture |
+| ![Three user groups](assets/three-user-groups.svg) | ![Interview do's & don'ts](assets/interview-dos-donts.svg) |
+| **Three user groups** — non-users grow the market | **Interview do's & don'ts** — behavior, not features |
 
 ## Backlog
 
@@ -91,5 +94,6 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 - [x] ~~Lecture 13 — *How to Be a Great Founder* (Reid Hoffman)~~ → [note 13](13-how-to-be-a-great-founder-reid-hoffman.md)
 - [x] ~~Lecture 14 — *How to Operate* (Keith Rabois)~~ → [note 14](14-how-to-operate-keith-rabois.md)
 - [x] ~~Lecture 15 — *How to Manage* (Ben Horowitz)~~ → [note 15](15-how-to-manage-ben-horowitz.md)
-- [ ] Lecture 16 — *How to Run a User Interview* (Emmett Shear)
-- [ ] Lecture 17 — *How to Build Products Users Love, Part II* (Kevin Hale)
+- [x] ~~Lecture 16 — *How to Run a User Interview* (Emmett Shear)~~ → [note 16](16-how-to-run-a-user-interview-emmett-shear.md)
+- [ ] Lecture 17 — *How to Build Products Users Love, Part II* (Hosain Rahman)
+- [ ] Lecture 18 — *Mechanics: Legal, Finance, HR, etc.* (Kirsty Nathoo, Carolynn Levy)

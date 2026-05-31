@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">How to run a user interview</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Learn what's already in their heads — don't put things there</text>
+
+  <!-- DO column -->
+  <rect x="60" y="120" width="430" height="330" rx="16" fill="#EAF6EE" stroke="#1A8A4A" stroke-width="1.5"/>
+  <text x="90" y="158" font-size="20" font-weight="800" fill="#1A6B3A">DO</text>
+
+  <g font-size="14.5" fill="#1A1A1A">
+    <text x="100" y="200" font-weight="700">✓ Ask about current behavior</text>
+    <text x="118" y="220" font-size="12.5" fill="#5A6475">"how do you do this today?"</text>
+
+    <text x="100" y="256" font-weight="700">✓ "Interesting — tell me more"</text>
+    <text x="118" y="276" font-size="12.5" fill="#5A6475">detective mode; let silence work</text>
+
+    <text x="100" y="312" font-weight="700">✓ Talk to who you need + extremes</text>
+    <text x="118" y="332" font-size="12.5" fill="#5A6475">~6–8 people; different types</text>
+
+    <text x="100" y="368" font-weight="700">✓ Record &amp; replay for the team</text>
+    <text x="118" y="388" font-size="12.5" fill="#5A6475">it persuades like magic</text>
+
+    <text x="100" y="424" font-weight="700">✓ Validate with the money test</text>
+    <text x="118" y="444" font-size="12.5" fill="#5A6475">"not $5 excited = not excited"</text>
+  </g>
+
+  <!-- DON'T column -->
+  <rect x="550" y="120" width="430" height="330" rx="16" fill="#FBEDED" stroke="#C0392B" stroke-width="1.5"/>
+  <text x="580" y="158" font-size="20" font-weight="800" fill="#A5281C">DON'T</text>
+
+  <g font-size="14.5" fill="#1A1A1A">
+    <text x="590" y="200" font-weight="700">✗ Show them your product</text>
+    <text x="608" y="220" font-size="12.5" fill="#5A6475">you'll plant ideas instead of learning</text>
+
+    <text x="590" y="256" font-weight="700">✗ Ask "is this feature good?"</text>
+    <text x="608" y="276" font-size="12.5" fill="#5A6475">they'll say yes, then never switch</text>
+
+    <text x="590" y="312" font-weight="700">✗ Talk only to who's available</text>
+    <text x="608" y="332" font-size="12.5" fill="#5A6475">easy ≠ the best data</text>
+
+    <text x="590" y="368" font-weight="700">✗ Interview over email</text>
+    <text x="608" y="388" font-size="12.5" fill="#5A6475">non-interactive — basically useless</text>
+
+    <text x="590" y="424" font-weight="700">✗ Build the big thing first</text>
+    <text x="608" y="444" font-size="12.5" fill="#5A6475">hack a test before 3 months of work</text>
+  </g>
+
+  <text x="520" y="494" text-anchor="middle" font-size="14.5" fill="#5A6475">Users ask for a faster horse — your job is to hear the problem and design the car.</text>
+  <text x="520" y="524" text-anchor="middle" font-size="14" fill="#8A94A6">Expect negative news about your favorite feature. Better now than four months after launch.</text>
+</svg>

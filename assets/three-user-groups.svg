@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Interview three groups, not one</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Non-users are the largest pool — and the key to expanding the market</text>
+
+  <!-- three circles increasing in size, baseline-aligned at cy=300 -->
+  <!-- Your users (small) -->
+  <circle cx="190" cy="300" r="58" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="190" y="296" text-anchor="middle" font-size="14" font-weight="700" fill="#5A6475">Your</text>
+  <text x="190" y="314" text-anchor="middle" font-size="14" font-weight="700" fill="#5A6475">users</text>
+
+  <!-- Competitors' users (medium) -->
+  <circle cx="430" cy="300" r="84" fill="#FDE7DC" stroke="#F6A07A" stroke-width="1.5"/>
+  <text x="430" y="296" text-anchor="middle" font-size="14" font-weight="700" fill="#C2552E">Competitors'</text>
+  <text x="430" y="314" text-anchor="middle" font-size="14" font-weight="700" fill="#C2552E">users</text>
+
+  <!-- Non-users (large, highlighted) -->
+  <circle cx="740" cy="300" r="122" fill="#F1592A"/>
+  <text x="740" y="290" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">Non-users</text>
+  <text x="740" y="316" text-anchor="middle" font-size="13" fill="#FFE3D6">most of the market</text>
+
+  <!-- captions -->
+  <text x="190" y="400" text-anchor="middle" font-size="12.5" fill="#5A6475">tolerate your flaws →</text>
+  <text x="190" y="418" text-anchor="middle" font-size="12.5" fill="#5A6475">not the big problems</text>
+
+  <text x="430" y="416" text-anchor="middle" font-size="12.5" fill="#5A6475">informed — the dealbreakers</text>
+  <text x="430" y="434" text-anchor="middle" font-size="12.5" fill="#5A6475">that keep them off you</text>
+
+  <text x="740" y="448" text-anchor="middle" font-size="13" font-weight="700" fill="#C2552E">what blocks you from expanding the market</text>
+
+  <text x="520" y="500" text-anchor="middle" font-size="14.5" fill="#1A1A1A" font-weight="600">Talk only to competitors' users and you can never grow the market.</text>
+  <text x="520" y="528" text-anchor="middle" font-size="14" fill="#8A94A6">The output isn't features — it's the goals (money · stability · global access) underneath them.</text>
+</svg>
