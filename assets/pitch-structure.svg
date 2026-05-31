@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The pitch: 30 seconds, then 2 minutes</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Stop at two minutes — the more you talk, the more chances to say something they dislike</text>
+
+  <!-- 30-second panel -->
+  <rect x="60" y="120" width="430" height="330" rx="16" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="90" y="158" font-size="19" font-weight="800" fill="#1A1A1A">30 seconds — 3 sentences</text>
+  <text x="90" y="180" font-size="13" font-style="italic" fill="#9AA3B2">your go-to for anyone, anytime</text>
+
+  <g>
+    <circle cx="102" cy="224" r="15" fill="#5A6475"/><text x="102" y="229" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">1</text>
+    <text x="130" y="221" font-size="15.5" font-weight="700" fill="#1A1A1A">What you do</text>
+    <text x="130" y="242" font-size="12.5" fill="#5A6475">the Mom test — one plain sentence</text>
+
+    <circle cx="102" cy="294" r="15" fill="#5A6475"/><text x="102" y="299" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">2</text>
+    <text x="130" y="291" font-size="15.5" font-weight="700" fill="#1A1A1A">How big is the market</text>
+    <text x="130" y="312" font-size="12.5" fill="#5A6475">a multi-billion number you can look up</text>
+
+    <circle cx="102" cy="364" r="15" fill="#5A6475"/><text x="102" y="369" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">3</text>
+    <text x="130" y="361" font-size="15.5" font-weight="700" fill="#1A1A1A">Traction</text>
+    <text x="130" y="382" font-size="12.5" fill="#5A6475">growth · users · revenue (or: we move fast)</text>
+  </g>
+  <text x="275" y="426" text-anchor="middle" font-size="12.5" font-style="italic" fill="#5A6475">"Airbnb lets you rent the extra room in your house."</text>
+
+  <!-- 2-minute panel -->
+  <rect x="550" y="120" width="430" height="330" rx="16" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="580" y="158" font-size="19" font-weight="800" fill="#F1592A">2 minutes — add 4</text>
+  <text x="580" y="180" font-size="13" font-style="italic" fill="#9AA3B2">for people you must convince</text>
+
+  <g>
+    <circle cx="592" cy="220" r="15" fill="#F1592A"/><text x="592" y="225" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">4</text>
+    <text x="620" y="217" font-size="15.5" font-weight="700" fill="#1A1A1A">Unique insight</text>
+    <text x="620" y="238" font-size="12.5" fill="#5A6475">the AHA — what the big players miss (2 sentences)</text>
+
+    <circle cx="592" cy="278" r="15" fill="#F1592A"/><text x="592" y="283" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">5</text>
+    <text x="620" y="275" font-size="15.5" font-weight="700" fill="#1A1A1A">How you make money</text>
+    <text x="620" y="296" font-size="12.5" fill="#5A6475">one sentence — just say it</text>
+
+    <circle cx="592" cy="336" r="15" fill="#F1592A"/><text x="592" y="341" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">6</text>
+    <text x="620" y="333" font-size="15.5" font-weight="700" fill="#1A1A1A">Team</text>
+    <text x="620" y="354" font-size="12.5" fill="#5A6475">wins that made money · who · how long · full-time</text>
+
+    <circle cx="592" cy="394" r="15" fill="#F1592A"/><text x="592" y="399" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">7</text>
+    <text x="620" y="391" font-size="15.5" font-weight="700" fill="#1A1A1A">The big ask</text>
+    <text x="620" y="412" font-size="12.5" fill="#5A6475">now use the jargon: SAFE · cap · amount · min check</text>
+  </g>
+
+  <text x="520" y="492" text-anchor="middle" font-size="14" fill="#8A94A6">Improve the company and the pitch gets easy. Fundraising ≠ success.</text>
+</svg>
