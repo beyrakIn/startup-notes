@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="60" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The honesty curve</text>
+  <text x="520" y="90" text-anchor="middle" font-size="16" fill="#8A94A6">Who gives you honest feedback flips the moment they have to pay</text>
+
+  <!-- Axes -->
+  <line x1="150" y1="150" x2="150" y2="450" stroke="#D8DCE4" stroke-width="2"/>
+  <line x1="150" y1="450" x2="900" y2="450" stroke="#D8DCE4" stroke-width="2"/>
+  <text x="120" y="300" text-anchor="middle" font-size="14" fill="#8A94A6" transform="rotate(-90 120 300)">Honesty  →</text>
+
+  <!-- x category labels -->
+  <text x="225" y="474" text-anchor="middle" font-size="13" fill="#5A6475">you / mom</text>
+  <text x="430" y="474" text-anchor="middle" font-size="13" fill="#5A6475">friends</text>
+  <text x="635" y="474" text-anchor="middle" font-size="13" fill="#5A6475">friends of friends</text>
+  <text x="840" y="474" text-anchor="middle" font-size="13" fill="#5A6475">strangers</text>
+  <text x="525" y="500" text-anchor="middle" font-size="13" fill="#8A94A6">distance from you  →</text>
+
+  <!-- FREE: decreasing (mom proud, strangers don't care) -->
+  <path d="M225 230 C330 250 360 270 430 285 C560 312 700 405 840 425" fill="none" stroke="#B8C0CE" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#B8C0CE"><circle cx="225" cy="230" r="6"/><circle cx="430" cy="285" r="6"/><circle cx="840" cy="425" r="6"/></g>
+  <text x="250" y="212" font-size="15" font-weight="700" fill="#9AA3B2">FREE → honesty fades with distance</text>
+
+  <!-- PAID: increasing (mom lies, strangers brutal) -->
+  <path d="M225 410 C330 395 360 360 430 330 C560 280 700 215 840 185" fill="none" stroke="#F1592A" stroke-width="5.5" stroke-linecap="round"/>
+  <g fill="#F1592A"><circle cx="225" cy="410" r="6"/><circle cx="430" cy="330" r="6"/><circle cx="840" cy="185" r="6"/></g>
+  <text x="610" y="168" font-size="15" font-weight="700" fill="#F1592A">PAID → strangers are brutally honest</text>
+
+  <!-- callouts -->
+  <text x="225" y="432" text-anchor="middle" font-size="11" fill="#E07B45">mom lies</text>
+  <text x="852" y="180" font-size="11" fill="#F1592A">money out the door</text>
+
+  <text x="520" y="535" text-anchor="middle" font-size="14" fill="#8A94A6">The best feedback comes when someone has to pay. Get to a paid product fast.</text>
+</svg>

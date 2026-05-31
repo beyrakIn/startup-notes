@@ -11,8 +11,9 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | 01 | [The Four Pillars](01-four-pillars-sam-altman.md) | Sam Altman — *How to Start a Startup*, Lecture 1 | Idea & Product, deep. Why to start at all. |
 | 02 | [Teams & Execution](02-teams-and-execution.md) | Sam Altman — Lecture 2 | Cofounders, hiring, equity, focus, momentum. |
 | 03 | [Counterintuitive Startups & How to Have Ideas](03-counterintuitive-and-ideas-paul-graham.md) | Paul Graham — Lecture 3 | Suppress your instincts; "just learn"; ideas come as side projects. |
+| 04 | [Building Product, Talking to Users & Growing](04-product-users-growth-adora-cheung.md) | Adora Cheung — Lecture 4 | Zero→many users: immerse, talk to users, retention, the 3 growth types. |
 
-> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer underneath it — *when* to start and *how ideas actually arrive.*
+> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *how to actually go from zero to many users.*
 
 ## The big ideas at a glance
 
@@ -39,9 +40,12 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | **Four pillars** — the framework | **Love &gt; Like** — concentrate the love |
 | ![Momentum](assets/momentum.svg) | ![Leading edge](assets/leading-edge.svg) |
 | **Momentum** — a tiny edge compounds | **Leading edge** — live in the future |
+| ![Retention curves](assets/retention-curves.svg) | ![Honesty curve](assets/honesty-curve.svg) |
+| **Retention** — flatten into a core | **Honesty curve** — paid feedback is honest |
 
 ## Backlog
 
 - [x] ~~Lecture 3 — *Counterintuitive Parts of Startups, and How to Have Ideas* (Paul Graham)~~ → [note 03](03-counterintuitive-and-ideas-paul-graham.md)
-- [ ] Lecture 4 — *Building Product, Talking to Users, and Growing*
+- [x] ~~Lecture 4 — *Building Product, Talking to Users, and Growing* (Adora Cheung)~~ → [note 04](04-product-users-growth-adora-cheung.md)
 - [ ] Lecture 5 — *Business Strategy and Monopoly Theory* (Peter Thiel)
+- [ ] Lecture 6 — *Growth*
