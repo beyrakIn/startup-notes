@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 16 (Nov 13, 2014). Emmett Shear (co-founder/CEO, Twitch).
 > Transcript: https://genius.com/Emmett-shear-lecture-16-how-to-run-a-user-interview-annotated
-> The "talk to users" craft behind [[04-product-users-growth-adora-cheung]] and [[07-products-users-love-kevin-hale]].
+> The "talk to users" craft behind [Building Product & Growing](04-product-users-growth-adora-cheung.md) and [Products Users Love (I)](07-products-users-love-kevin-hale.md).
 
 Emmett's first startup (Kiko, a calendar) failed partly because **neither founder used calendars and they never talked to anyone who did.** Justin.tv worked by "cheating" — they built it *for themselves* (a way to skip talking to users, but limiting). The pivot to **gaming** finally forced real user interviews, and that data drove three years of Twitch product — they built a whole **division** to talk to users.
 

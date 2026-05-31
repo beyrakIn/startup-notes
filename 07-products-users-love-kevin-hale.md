@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 7 (Oct 14, 2014). Kevin Hale (co-founder of Wufoo; YC partner).
 > Transcript: https://genius.com/Kevin-hale-lecture-7-how-to-build-products-users-love-part-i-annotated
-> The emotional craft beneath [[04-product-users-growth-adora-cheung]]'s retention and [[06-growth-alex-schultz]]'s churn.
+> The emotional craft beneath [Building Product & Growing](04-product-users-growth-adora-cheung.md)'s retention and [Growth](06-growth-alex-schultz.md)'s churn.
 
 **Wufoo** — an online form builder, "a database app that looks like it was designed by Fisher-Price." YC W2006, team of 10, run from home in Florida, acquired by SurveyMonkey (2011). The outlier economics: the average startup raises ~$25M for a ~676% return; **Wufoo raised ~$118k for a ~29,561% return.**
 

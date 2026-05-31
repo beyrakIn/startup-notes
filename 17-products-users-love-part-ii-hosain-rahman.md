@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 17 (2014). Hosain Rahman (co-founder/CEO, Jawbone).
 > Transcript: https://genius.com/Hosain-rahman-lecture-17-how-to-build-products-users-love-part-ii-annotated
-> The hardware companion to [[07-products-users-love-kevin-hale]] and [[16-how-to-run-a-user-interview-emmett-shear]].
+> The hardware companion to [Products Users Love (I)](07-products-users-love-kevin-hale.md) and [How to Run a User Interview](16-how-to-run-a-user-interview-emmett-shear.md).
 
 Jawbone lives at the intersection of **engineering and beauty** — and was building the "Internet of Things" before the term existed (headset → wearable computer → the Jambox wireless speaker → the Up health band).
 
@@ -64,7 +64,7 @@ When the Jambox launched (fall 2010), wireless speakers were **0%** of the speak
 - Not "do you want a digital music player?" but *"how much music do you listen to with other people, and how do you play it?"*
 - The iPod pitch was *"1,000 songs in your pocket,"* not "a portable digital music player."
 
-> Separate **questions that make *you* smarter about your thesis** from **trying to get someone to validate it.** "No one's going to tell you what to build — if they could, they'd do it." *(Same lesson as [[16-how-to-run-a-user-interview-emmett-shear]].)*
+> Separate **questions that make *you* smarter about your thesis** from **trying to get someone to validate it.** "No one's going to tell you what to build — if they could, they'd do it." *(Same lesson as [How to Run a User Interview](16-how-to-run-a-user-interview-emmett-shear.md).)*
 
 ---
 

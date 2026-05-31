@@ -3,7 +3,7 @@
 > Source: Stanford CS183B, Lecture 2 (Sep 25, 2014). Sam Altman.
 > Transcript: https://genius.com/Sam-altman-lecture-2-ideas-products-teams-and-execution-part-ii-annotated
 > Captured: 2026-05-31
-> Completes the four-pillar framework from [[01-four-pillars-sam-altman]].
+> Completes the four-pillar framework from [The Four Pillars](01-four-pillars-sam-altman.md).
 
 Reminder: if you don't get **idea** and **product** right, none of this saves you. This lecture is **Team** (hire) and **Execution**.
 

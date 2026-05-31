@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 8 (Oct 16, 2014). Stanley Tang (DoorDash), Walker Williams (Teespring), Justin Kan (Justin.tv / Twitch).
 > Transcript: https://genius.com/Walker-williams-lecture-8-doing-things-that-dont-scale-pr-and-how-to-get-started-annotated
-> The hands-on counterpart to [[04-product-users-growth-adora-cheung]] and the PR layer on [[06-growth-alex-schultz]].
+> The hands-on counterpart to [Building Product & Growing](04-product-users-growth-adora-cheung.md) and the PR layer on [Growth](06-growth-alex-schultz.md).
 
 Three founders, one theme: **doing things that don't scale is your biggest early advantage** — plus how press actually works.
 

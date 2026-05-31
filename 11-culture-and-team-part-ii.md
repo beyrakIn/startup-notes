@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 11 (Oct 28, 2014). Panel: Ben Silbermann (Pinterest), Patrick & John Collison (Stripe), moderated by Sam Altman.
 > Transcript: https://genius.com/Patrick-collison-lecture-11-company-culture-and-building-a-team-part-ii-annotated
-> The practitioner's sequel to [[10-culture-and-team-part-i]].
+> The practitioner's sequel to [Culture & Team (I)](10-culture-and-team-part-i.md).
 
 The applied half: hiring the first ten, spotting talent when you're inexperienced, onboarding, and scaling culture from 2 → 1,000.
 

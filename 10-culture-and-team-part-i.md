@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 10 (Oct 23, 2014). Alfred Lin (Zappos COO, Sequoia partner) + Brian Chesky (co-founder/CEO, Airbnb).
 > Transcript: https://genius.com/Alfred-lin-lecture-10-company-culture-and-building-a-team-part-i-annotated
-> The team layer beneath [[02-teams-and-execution]] and the love behind [[07-products-users-love-kevin-hale]].
+> The team layer beneath [Teams & Execution](02-teams-and-execution.md) and the love behind [Products Users Love (I)](07-products-users-love-kevin-hale.md).
 
 You've built a product, found growth, and chased a monopoly market — **culture is what scales the business and the team from here.**
 
@@ -64,7 +64,7 @@ Culture has two parts: **behaviors** (change over decades) and **enduring princi
 **Culture** = the beliefs *inside* the company; **brand** = the promise *outside.* Whatever's inside eventually comes out. Your brand is decided by your employees (your evangelists) — passionate employees → customers passionate about the brand. There's no *good* or *bad* culture, only **strong or weak** (and a good culture for one company isn't good for another). Apple's 1997 *Think Different*: you win by talking about **what you value**, not bits and bytes — otherwise you're a **utility**, sold at commodity prices.
 
 ### The CEO's job and "do things that don't scale"
-The CEO mostly **articulates the vision** → develops strategy → hires people who fit the culture — repeated thousands of times. And, echoing [[08-dont-scale-and-pr]]: **100 people who love you > 1M who like you.** They went door-to-door *living with* hosts (*"Steve Jobs won't sleep on your couch, but I will"*); the pro-photography program started by hand (a rented camera, homes shot in the snow, managed in spreadsheets) and only became software once they knew the perfect service. (Doug Leone: Airbnb has "the worst job of any CEO" — a tech + payments + trust-&-safety + regulatory + offline company in 190 countries. It's not a marketing company.)
+The CEO mostly **articulates the vision** → develops strategy → hires people who fit the culture — repeated thousands of times. And, echoing [Don't Scale & PR](08-dont-scale-and-pr.md): **100 people who love you > 1M who like you.** They went door-to-door *living with* hosts (*"Steve Jobs won't sleep on your couch, but I will"*); the pro-photography program started by hand (a rented camera, homes shot in the snow, managed in spreadsheets) and only became software once they knew the perfect service. (Doug Leone: Airbnb has "the worst job of any CEO" — a tech + payments + trust-&-safety + regulatory + offline company in 190 countries. It's not a marketing company.)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 13 (Nov 4, 2014). Reid Hoffman (co-founder LinkedIn, exec PayPal, partner Greylock).
 > Transcript: https://genius.com/Reid-hoffman-lecture-13-how-to-be-a-great-founder-annotated
-> The mindset layer over [[02-teams-and-execution]] and the founder side of [[09-how-to-raise-money]].
+> The mindset layer over [Teams & Execution](02-teams-and-execution.md) and the founder side of [How to Raise Money](09-how-to-raise-money.md).
 
 The question isn't "what skills must I max out?" — it's **how do you see yourself as a founder, and how do you navigate the job?**
 

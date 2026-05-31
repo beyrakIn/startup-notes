@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 9 (Oct 21, 2014). Panel: Marc Andreessen (a16z), Ron Conway (SV Angel), Parker Conrad (Zenefits), moderated by Sam Altman.
 > Transcript: https://genius.com/Marc-andreessen-lecture-9-how-to-raise-money-annotated
-> The capital layer over [[05-monopoly-theory-peter-thiel.md]] and [[08-dont-scale-and-pr]].
+> The capital layer over [Monopoly Theory](05-monopoly-theory-peter-thiel.md) and [Don't Scale & PR](08-dont-scale-and-pr.md).
 
 The headline tension of the whole panel: **fundraising barely matters compared to building a great business.** "Be so good they can't ignore you."
 

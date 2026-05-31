@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 6 (Oct 9, 2014). Alex Schultz (VP of Growth, Facebook).
 > Transcript: https://genius.com/Alex-schultz-lecture-6-growth-annotated
-> The growth engine bolted onto [[04-product-users-growth-adora-cheung]]'s retention foundation.
+> The growth engine bolted onto [Building Product & Growing](04-product-users-growth-adora-cheung.md)'s retention foundation.
 
 Schultz did physics at Cambridge, then paid for college doing SEO and AdWords→eBay affiliate arbitrage. His definition of "growth" is unglamorous: **internet marketing using whatever channel gets the output you want.** The lecture has three parts: **retention** (the foundation), **operating for growth** (North Star · magic moment · marginal user), and **tactics**.
 
@@ -12,7 +12,7 @@ Schultz did physics at Cambridge, then paid for college doing SEO and AdWords→
 Great product → customers → they spread the word → **retention.**
 > **"Retention is the single most important thing for growth."**
 
-- **The retention curve** = % monthly active vs. days since acquisition. If it goes **asymptotic to a horizontal line** → you have a viable business and product-market fit (for some subset of the market). If it **slopes down and hits the X-axis** → no business. *(See the cohort curves in [[04-product-users-growth-adora-cheung]].)*
+- **The retention curve** = % monthly active vs. days since acquisition. If it goes **asymptotic to a horizontal line** → you have a viable business and product-market fit (for some subset of the market). If it **slopes down and hits the X-axis** → no business. *(See the cohort curves in [Building Product & Growing](04-product-users-growth-adora-cheung.md).)*
 - **The cohort method works with ~10k users:** of users on day 1, what % are monthly active? Day 31, 32, 33… does it flatten? (Facebook predicted an advertiser's 1-year value to **97%** within 90 days of a 3-day-old product.)
 - ⚠️ **If the curve doesn't flatten, do NOT run growth tactics** — no virality, no growth hacker. Fix product-market fit first. The #1 problem for both Facebook's new products and startups: **they think they have PMF and don't.**
 

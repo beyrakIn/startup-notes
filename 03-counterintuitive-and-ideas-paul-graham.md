@@ -3,7 +3,7 @@
 > Source: Stanford CS183B, Lecture 3 (Sep 30, 2014). Paul Graham.
 > Transcript: https://genius.com/Paul-graham-lecture-3-counterintuitive-parts-of-startups-and-how-to-have-ideas-annotated
 > Captured: 2026-05-31
-> Builds on [[01-four-pillars-sam-altman]] and [[02-teams-and-execution]].
+> Builds on [The Four Pillars](01-four-pillars-sam-altman.md) and [Teams & Execution](02-teams-and-execution.md).
 
 The frame: **startups are counterintuitive, like skiing.** When you want to slow down on skis, your instinct is to lean back — and you fly out of control. Startups have a similar list of instincts you must suppress. PG: "We used to joke our function was to tell founders things they would ignore" — and a year later they'd say *"I wish we'd listened."*
 

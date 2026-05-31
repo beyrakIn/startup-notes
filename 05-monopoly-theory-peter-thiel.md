@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 5 (Oct 7, 2014). Peter Thiel (co-founder of PayPal, Palantir, Founders Fund).
 > Transcript: https://genius.com/Peter-thiel-lecture-5-business-strategy-and-monopoly-theory-annotated
-> Reading: *Zero to One*, ch. 3–5. The strategic frame around [[01-four-pillars-sam-altman]]'s "monopoly via a small market."
+> Reading: *Zero to One*, ch. 3–5. The strategic frame around [The Four Pillars](01-four-pillars-sam-altman.md)'s "monopoly via a small market."
 
 One *idée fixe*: **if you're a founder, always aim for monopoly and always avoid competition. Competition is for losers.**
 

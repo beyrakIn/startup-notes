@@ -3,7 +3,7 @@
 > Source: Stanford CS183B, Lecture 4 (Oct 10, 2014). Adora Cheung (co-founder, Homejoy).
 > Transcript: https://genius.com/Adora-cheung-lecture-4-building-product-talking-to-users-and-growing-annotated
 > Captured: 2026-05-31
-> The tactical companion to [[01-four-pillars-sam-altman]]'s "build something users love."
+> The tactical companion to [The Four Pillars](01-four-pillars-sam-altman.md)'s "build something users love."
 
 Going from **zero users to many users** — most of it learned from failure. Homejoy's current concept was the **13th idea** Adora fully built and tried to grow. Caveats: take advice as *directional*; every business is different. And give yourself **compressed, immersive time** — one or two full days beats two scattered hours a day (startups context-switch like coding).
 

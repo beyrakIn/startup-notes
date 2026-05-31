@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 15 (Nov 11, 2014). Ben Horowitz (co-founder Andreessen Horowitz; author of *The Hard Thing About Hard Things*).
 > Transcript: https://genius.com/B-horowitz-lecture-15-how-to-manage-annotated
-> The judgment layer over [[14-how-to-operate-keith-rabois]].
+> The judgment layer over [How to Operate](14-how-to-operate-keith-rabois.md).
 
 Ben "wrote a 300-page book on management" but teaches **exactly one concept** here — the one CEOs mess up most, from tiny to huge:
 

@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 12 (Oct 30, 2014). Aaron Levie (co-founder/CEO, Box). Titled "Sales and Marketing," but really a case for enterprise.
 > Transcript: https://genius.com/Aaron-levie-lecture-12-sales-and-marketing-annotated
-> The enterprise counterpoint to [[05-monopoly-theory-peter-thiel]] and [[08-dont-scale-and-pr]].
+> The enterprise counterpoint to [Monopoly Theory](05-monopoly-theory-peter-thiel.md) and [Don't Scale & PR](08-dont-scale-and-pr.md).
 
 Levie's whole goal: convince you that **enterprise software is where to build** — and that the reasons it looks unsexy are exactly why it's a great opportunity now.
 

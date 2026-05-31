@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 20 (2014). Sam Altman.
 > Transcript: https://genius.com/Sam-altman-lecture-20-closing-thoughts-and-later-stage-advice-annotated
-> The capstone — what to do *after* the rest of the course works. Bookends [[01-four-pillars-sam-altman]].
+> The capstone — what to do *after* the rest of the course works. Bookends [The Four Pillars](01-four-pillars-sam-altman.md).
 
 Everything else in this course was about the beginning. This lecture is the list of things you can **ignore until after product-market fit** (mostly **months 12–24**) — and that founders most often fail to transition on. *Write these down and look back when you get there.*
 

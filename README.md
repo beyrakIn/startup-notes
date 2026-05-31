@@ -46,7 +46,7 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 
 - **One note per source.** Numbered (`01-`, `02-`, …) so reading order is preserved.
 - **Faithful to the source.** Quotes are real; where a source doesn't cover something, the note says so instead of inventing it.
-- **`[[wiki-links]]`** connect related notes (e.g. `[[02-teams-and-execution]]`).
+- **Relative Markdown links** connect related notes (e.g. `[Teams & Execution](02-teams-and-execution.md)`).
 - **`assets/`** holds the SVG diagrams, embedded into the notes and rendered inline by GitHub.
 - Every note ends with **action items** — questions to ask about *my* startup.
 

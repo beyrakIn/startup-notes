@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 18 (Nov 20, 2014). Kirsty Nathoo (CFO/accountant, YC) & Carolynn Levy (lawyer, YC).
 > Transcript: https://genius.com/Kirsty-nathoo-lecture-18-mechanics-legal-finance-hr-etc-annotated
-> Tools mentioned: Clerky (incorporation/financing docs), ZenPayroll, inDinero. The plumbing under [[09-how-to-raise-money]].
+> Tools mentioned: Clerky (incorporation/financing docs), ZenPayroll, inDinero. The plumbing under [How to Raise Money](09-how-to-raise-money.md).
 
 Founders don't need the mechanics in *detail* (don't get bogged down) — but knowing the **basics** lets you avoid pain, stop worrying, and focus on the company. The whole talk's minimum bar: **don't form your startup as a Florida LLC.**
 

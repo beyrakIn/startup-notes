@@ -23,7 +23,7 @@ Every note follows the same shape — match it when adding one:
 1. **Header blockquote** with `> Source:`, `> Transcript:` (URL), `> Captured:` (today's date, absolute), and a one-line framing that links related notes.
 2. **Faithful to the source.** Quotes are *real* — never invent them. If a source doesn't cover something, say so rather than filling it in from general knowledge. Convert relative dates to absolute.
 3. **Scannable:** short prose, tables for comparisons, real quotes in `>` blockquotes, **bold** for the load-bearing phrase.
-4. **`[[wiki-links]]`** to related notes by their filename slug (without extension).
+4. **Relative Markdown links** to related notes, with a readable title — e.g. `[Teams & Execution](02-teams-and-execution.md)` (these render on GitHub; Obsidian-style `[[wiki-links]]` do not).
 5. End with a **`## My action items`** checklist — questions to ask about *my own* startup.
 
 ## Diagram conventions
@@ -45,7 +45,7 @@ Real bugs have shipped from skipping the visual check (clipped labels, miscounte
 
 ## Adding a note — checklist
 
-1. Write `NN-slug.md` following the note conventions; weave in `[[links]]`.
+1. Write `NN-slug.md` following the note conventions; weave in relative links to related notes.
 2. Build the 1–2 most distinctive diagrams for that source; validate + render-check each.
 3. Update `README.md`: the **Notes table**, the **layered-narrative** line, and the **Diagrams gallery**.
 4. Commit with a descriptive message; co-author trailer:

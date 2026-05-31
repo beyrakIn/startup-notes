@@ -12,7 +12,7 @@ A startup needs a **great idea, a great product, a great team, and great executi
 
 > "The outcome is something like idea × product × execution × team × luck, where luck is a random number between zero and ten thousand."
 
-Because it's a *product*, a zero in any factor sinks the whole thing. This lecture only goes deep on **Idea** and **Product**; Team and Execution are covered in Lecture 2. → see [[02-teams-and-execution]].
+Because it's a *product*, a zero in any factor sinks the whole thing. This lecture only goes deep on **Idea** and **Product**; Team and Execution are covered in Lecture 2. → see [Teams & Execution](02-teams-and-execution.md).
 
 **Caveat up front — don't start a startup just to start one.** There are easier ways to get rich, and every founder underestimates how hard/painful it is. *The specific passion should come first, the startup second.*
 

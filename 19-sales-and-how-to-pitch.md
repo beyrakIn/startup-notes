@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 19 (2014). Tyler Bosmeny (CEO, Clever) on sales; Michael Seibel, Qasar Younis & Dalton Caldwell (YC) on pitching.
 > Transcript: https://genius.com/Tyler-bosmeny-lecture-19-sales-and-marketing-how-to-pitch-and-investor-meeting-roleplaying-annotated
-> The go-to-market + fundraising craft on top of [[08-dont-scale-and-pr]] and [[09-how-to-raise-money]].
+> The go-to-market + fundraising craft on top of [Don't Scale & PR](08-dont-scale-and-pr.md) and [How to Raise Money](09-how-to-raise-money.md).
 
 ---
 

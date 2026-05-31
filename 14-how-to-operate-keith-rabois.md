@@ -2,7 +2,7 @@
 
 > Source: Stanford CS183B, Lecture 14 (Nov 6, 2014). Keith Rabois (exec at PayPal, LinkedIn, Square; investor).
 > Transcript: https://genius.com/Keith-rabois-lecture-14-how-to-operate-annotated
-> Reading: Andy Grove, *High Output Management*; Bill Walsh, *The Score Takes Care of Itself*. The operating manual after [[13-how-to-be-a-great-founder-reid-hoffman]].
+> Reading: Andy Grove, *High Output Management*; Bill Walsh, *The Score Takes Care of Itself*. The operating manual after [How to Be a Great Founder](13-how-to-be-a-great-founder-reid-hoffman.md).
 
 You've forged a product; now you forge a **company** — which is harder, because **people are irrational** (it's "all the irrational people you know in one building, 12 hours a day").
 
