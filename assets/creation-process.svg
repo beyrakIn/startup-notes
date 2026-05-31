@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">A deliberate creation process</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Each phase has a gate — and it loops: launch, learn, start again</text>
+
+  <!-- 4 phase cards -->
+  <!-- card geometry: width 218, gap 16, start x=46 -->
+  <g>
+    <!-- Exploration -->
+    <rect x="46" y="130" width="218" height="240" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="155" y="166" text-anchor="middle" font-size="17" font-weight="700" fill="#F1592A">1 · Exploration</text>
+    <text x="155" y="196" text-anchor="middle" font-size="12.5" fill="#5A6475">wild, imaginative</text>
+    <text x="155" y="214" text-anchor="middle" font-size="12.5" fill="#5A6475">"science project"</text>
+    <text x="155" y="232" text-anchor="middle" font-size="12.5" fill="#5A6475">vision · brand · raw creativity</text>
+    <rect x="70" y="252" width="170" height="24" rx="12" fill="#EEF1F5"/>
+    <text x="155" y="269" text-anchor="middle" font-size="11.5" fill="#5A6475">led by R&amp;D</text>
+    <text x="155" y="312" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A">gate:</text>
+    <text x="155" y="332" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">"Would I give this</text>
+    <text x="155" y="350" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">$50k?" — CTO decides</text>
+
+    <!-- Validation -->
+    <rect x="280" y="130" width="218" height="240" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="389" y="166" text-anchor="middle" font-size="17" font-weight="700" fill="#F1592A">2 · Validation</text>
+    <text x="389" y="196" text-anchor="middle" font-size="12.5" fill="#5A6475">prove it like a</text>
+    <text x="389" y="214" text-anchor="middle" font-size="12.5" fill="#5A6475">PhD thesis (data)</text>
+    <text x="389" y="232" text-anchor="middle" font-size="12.5" fill="#5A6475">define the WHYS</text>
+    <rect x="304" y="252" width="170" height="24" rx="12" fill="#EEF1F5"/>
+    <text x="389" y="269" text-anchor="middle" font-size="11.5" fill="#5A6475">R&amp;D + design</text>
+    <text x="389" y="312" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A">gate:</text>
+    <text x="389" y="332" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">buildable &amp; viable?</text>
+    <text x="389" y="350" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">Hosain decides</text>
+
+    <!-- Concept -->
+    <rect x="514" y="130" width="218" height="240" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="623" y="166" text-anchor="middle" font-size="17" font-weight="700" fill="#F1592A">3 · Concept</text>
+    <text x="623" y="196" text-anchor="middle" font-size="12.5" fill="#5A6475">design drives the WHYS</text>
+    <text x="623" y="214" text-anchor="middle" font-size="12.5" fill="#5A6475">"Hero Experiences"</text>
+    <text x="623" y="232" text-anchor="middle" font-size="12.5" fill="#5A6475">+ the roadmap</text>
+    <rect x="538" y="252" width="170" height="24" rx="12" fill="#EEF1F5"/>
+    <text x="623" y="269" text-anchor="middle" font-size="11.5" fill="#5A6475">Product Experience</text>
+    <text x="623" y="312" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A">gate:</text>
+    <text x="623" y="332" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">crosses the</text>
+    <text x="623" y="350" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">value threshold?</text>
+
+    <!-- Development -->
+    <rect x="748" y="130" width="218" height="240" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="857" y="166" text-anchor="middle" font-size="17" font-weight="700" fill="#F1592A">4 · Development</text>
+    <text x="857" y="196" text-anchor="middle" font-size="12.5" fill="#5A6475">build · tune · deepen</text>
+    <text x="857" y="214" text-anchor="middle" font-size="12.5" fill="#5A6475">the magical details</text>
+    <text x="857" y="232" text-anchor="middle" font-size="12.5" fill="#5A6475">(the Jambox "WOOO")</text>
+    <rect x="772" y="252" width="170" height="24" rx="12" fill="#EEF1F5"/>
+    <text x="857" y="269" text-anchor="middle" font-size="11.5" fill="#5A6475">PM + Engineering</text>
+    <text x="857" y="312" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A">gate:</text>
+    <text x="857" y="332" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">ship → launch</text>
+    <text x="857" y="350" text-anchor="middle" font-size="12" font-style="italic" fill="#C2552E">→ iterate</text>
+  </g>
+
+  <!-- arrows between cards (pointing right) -->
+  <g fill="#C2CAD6">
+    <path d="M266 243 l0 14 l14 -7 z"/>
+    <path d="M500 243 l0 14 l14 -7 z"/>
+    <path d="M734 243 l0 14 l14 -7 z"/>
+  </g>
+
+  <!-- iterate loop arrow -->
+  <path d="M857 372 C857 426 520 440 200 440 C150 440 130 426 130 398 L130 372" fill="none" stroke="#F1592A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M130 372 l-6 14 l12 0 z" fill="#F1592A"/>
+  <rect x="392" y="450" width="256" height="22" rx="6" fill="#ffffff"/>
+  <text x="520" y="466" text-anchor="middle" font-size="13" font-weight="600" fill="#F1592A">learn from users → start again</text>
+
+  <text x="520" y="492" text-anchor="middle" font-size="14" fill="#8A94A6">Start with a big wish list, then wheel it down to what crosses the value threshold.</text>
+</svg>

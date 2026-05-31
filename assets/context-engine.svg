@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The wearable as a context engine</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">On your body 24/7, it knows your context — and makes everything around you smarter</text>
+
+  <!-- spokes (drawn first, behind nodes) -->
+  <g stroke="#F6C3AC" stroke-width="2.5" stroke-dasharray="3 6">
+    <line x1="520" y1="310" x2="250" y2="200"/>
+    <line x1="520" y1="310" x2="790" y2="200"/>
+    <line x1="520" y1="310" x2="250" y2="420"/>
+    <line x1="520" y1="310" x2="790" y2="420"/>
+  </g>
+
+  <!-- center hub -->
+  <circle cx="520" cy="310" r="74" fill="#F1592A"/>
+  <text x="520" y="300" text-anchor="middle" font-size="15" font-weight="800" fill="#ffffff">Wearable</text>
+  <text x="520" y="320" text-anchor="middle" font-size="11.5" fill="#FFE3D6">heart rate · sleep ·</text>
+  <text x="520" y="336" text-anchor="middle" font-size="11.5" fill="#FFE3D6">respiration · 24/7</text>
+
+  <!-- nodes -->
+  <!-- Nest (top-left) -->
+  <circle cx="250" cy="200" r="50" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="250" y="196" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">Nest</text>
+  <text x="250" y="214" text-anchor="middle" font-size="11" fill="#9AA3B2">thermostat</text>
+  <text x="250" y="128" text-anchor="middle" font-size="11.5" fill="#5A6475">"I'm hot because I ran,</text>
+  <text x="250" y="144" text-anchor="middle" font-size="11.5" fill="#5A6475">not because it's hot out"</text>
+
+  <!-- Car (top-right) -->
+  <circle cx="790" cy="200" r="50" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="790" y="205" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">Car</text>
+  <text x="790" y="128" text-anchor="middle" font-size="11.5" fill="#5A6475">"you're falling asleep —</text>
+  <text x="790" y="144" text-anchor="middle" font-size="11.5" fill="#5A6475">wake up"</text>
+
+  <!-- Speaker (bottom-left) -->
+  <circle cx="250" cy="420" r="50" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="250" y="418" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1A1A1A">Spotify /</text>
+  <text x="250" y="436" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1A1A1A">Jambox</text>
+  <text x="250" y="486" text-anchor="middle" font-size="11.5" fill="#5A6475">"play the song that fits</text>
+  <text x="250" y="502" text-anchor="middle" font-size="11.5" fill="#5A6475">my mood"</text>
+
+  <!-- TV (bottom-right) -->
+  <circle cx="790" cy="420" r="50" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="790" y="425" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">TV</text>
+  <text x="790" y="486" text-anchor="middle" font-size="11.5" fill="#5A6475">"skip the commercial</text>
+  <text x="790" y="502" text-anchor="middle" font-size="11.5" fill="#5A6475">you didn't like"</text>
+
+  <text x="520" y="540" text-anchor="middle" font-size="14" fill="#8A94A6">The "grand unified theory" — one body of data ties unrelated products into one system.</text>
+</svg>
