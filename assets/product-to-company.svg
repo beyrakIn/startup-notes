@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">From building a product to building a company</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">The biggest shift in being a founder — it happens around 25 employees</text>
+
+  <!-- shift banner -->
+  <rect x="90" y="116" width="370" height="64" rx="14" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="275" y="142" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">≤ 25 people</text>
+  <text x="275" y="165" text-anchor="middle" font-size="13.5" fill="#5A6475">build a great <tspan font-weight="700" fill="#1A1A1A">product</tspan></text>
+
+  <path d="M470 148 h100" stroke="#C2CAD6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M570 148 l-14 -7 l0 14 z" fill="#C2CAD6"/>
+
+  <rect x="580" y="116" width="370" height="64" rx="14" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="765" y="142" text-anchor="middle" font-size="15" font-weight="700" fill="#F1592A">&gt; 25 people</text>
+  <text x="765" y="165" text-anchor="middle" font-size="13.5" fill="#5A6475">build a great <tspan font-weight="700" fill="#F1592A">company</tspan> (forever)</text>
+
+  <!-- four failure cases -->
+  <text x="520" y="222" text-anchor="middle" font-size="16" font-weight="700" fill="#1A1A1A">The four founder → manager traps</text>
+
+  <!-- card geometry: w=420 h=110, cols x=90,530, rows y=240,366 -->
+  <g>
+    <rect x="90" y="240" width="420" height="110" rx="12" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="114" y="274" font-size="16" font-weight="700" fill="#1A1A1A">1 · Afraid to hire senior people</text>
+    <text x="114" y="300" font-size="13" fill="#5A6475">early, aptitude &gt; experience — but at scale,</text>
+    <text x="114" y="320" font-size="13" fill="#C2552E">✓ hire execs who've built companies (sooner)</text>
+
+    <rect x="530" y="240" width="420" height="110" rx="12" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="554" y="274" font-size="16" font-weight="700" fill="#1A1A1A">2 · Hero mode</text>
+    <text x="554" y="300" font-size="13" fill="#5A6475">working 20 hrs/day rather than hiring</text>
+    <text x="554" y="320" font-size="13" fill="#C2552E">✓ fall behind 2–3 weeks to hire ahead</text>
+
+    <rect x="90" y="366" width="420" height="110" rx="12" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="114" y="400" font-size="16" font-weight="700" fill="#1A1A1A">3 · Bad delegation</text>
+    <text x="114" y="426" font-size="13" fill="#5A6475">"bring me the data, I'll decide"</text>
+    <text x="114" y="446" font-size="13" fill="#C2552E">✓ "you decide — I trust you"</text>
+
+    <rect x="530" y="366" width="420" height="110" rx="12" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+    <text x="554" y="400" font-size="16" font-weight="700" fill="#1A1A1A">4 · Personal disorganization</text>
+    <text x="554" y="426" font-size="13" fill="#5A6475">losing track of who's doing what</text>
+    <text x="554" y="446" font-size="13" fill="#C2552E">✓ build a personal tracking system</text>
+  </g>
+
+  <text x="520" y="512" text-anchor="middle" font-size="14" fill="#8A94A6">Write down the HOW and the WHY on a wiki everyone reads — and you "write the law."</text>
+</svg>

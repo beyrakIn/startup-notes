@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The trough of sorrow</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">How adoption actually goes — long, but doable (Airbnb: ~1,000 days)</text>
+
+  <!-- axes -->
+  <line x1="110" y1="150" x2="110" y2="450" stroke="#D8DCE4" stroke-width="2"/>
+  <line x1="110" y1="450" x2="950" y2="450" stroke="#D8DCE4" stroke-width="2"/>
+  <text x="84" y="300" text-anchor="middle" font-size="13" fill="#9AA3B2" transform="rotate(-90 84 300)">growth</text>
+  <text x="530" y="488" text-anchor="middle" font-size="13" fill="#9AA3B2">time  →</text>
+
+  <!-- the curve -->
+  <path d="M120 410
+           L200 196
+           L268 402
+           C292 432 322 436 346 430
+           C372 424 386 402 410 400
+           L452 410 L492 396 L540 408 L588 396 L650 406 L706 394
+           C770 388 840 300 928 156"
+        fill="none" stroke="#F1592A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- markers -->
+  <circle cx="200" cy="196" r="6" fill="#F1592A"/>
+  <circle cx="346" cy="430" r="6" fill="#A5281C"/>
+  <circle cx="928" cy="156" r="6" fill="#F1592A"/>
+
+  <!-- annotations -->
+  <text x="200" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#F1592A">launch spike</text>
+  <text x="200" y="166" text-anchor="middle" font-size="11.5" fill="#9AA3B2">(the press)</text>
+
+  <text x="346" y="452" text-anchor="middle" font-size="12.5" font-weight="700" fill="#A5281C">looks dead</text>
+
+  <text x="560" y="382" text-anchor="middle" font-size="12.5" font-weight="600" fill="#C2552E">wiggles of false hope</text>
+  <text x="540" y="430" text-anchor="middle" font-size="13" font-weight="700" fill="#5A6475">the long trough of sorrow</text>
+
+  <text x="900" y="140" text-anchor="middle" font-size="14" font-weight="800" fill="#F1592A">finally — growth</text>
+  <text x="880" y="438" text-anchor="middle" font-size="11.5" fill="#9AA3B2">~1,000 days</text>
+
+  <text x="520" y="524" text-anchor="middle" font-size="14" fill="#8A94A6">Mesh the product and market gears by getting close to users — and survive the curve.</text>
+</svg>

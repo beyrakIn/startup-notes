@@ -2,6 +2,8 @@
 
 A personal, source-faithful notebook on building a startup. Each note distills one talk, essay, or lecture down to what's *actionable* — real quotes, scannable tables, and a checklist I can run against my own company.
 
+**✅ Complete:** all **20 lectures** of Sam Altman's Stanford **CS183B — *How to Start a Startup*** (2014), with **38 hand-built SVG diagrams**.
+
 ![The four pillars of a great startup](assets/four-pillars.svg)
 
 ## Notes
@@ -27,8 +29,9 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | 17 | [Building Products Users Love, Part II](17-products-users-love-part-ii-hosain-rahman.md) | Hosain Rahman — Lecture 17 | Hardware: the full stack, the creation process, the WHYS, and the context engine. |
 | 18 | [Mechanics — Legal, Finance, HR](18-mechanics-legal-finance-hr.md) | Nathoo · Levy — Lecture 18 | Delaware C-corp, equal splits + 83(b), vesting, SAFEs, payroll, and firing. |
 | 19 | [Sales & How to Pitch](19-sales-and-how-to-pitch.md) | Bosmeny · Seibel · Younis · Caldwell — Lecture 19 | The founder's sales funnel, "shut up," and the 30-second / 2-minute pitch. |
+| 20 | [Closing Thoughts & Later-Stage Advice](20-closing-thoughts-sam-altman.md) | Sam Altman — Lecture 20 | Scaling: product→company, HR/equity, alignment, psychology, and the trough of sorrow. |
 
-> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.* Note 09 (Andreessen · Conway · Conrad) is the capital layer — *be so good they can't ignore you, and peel risk round by round.* Note 10 (Lin · Chesky) is the culture layer — *design your values and hire for them, because culture becomes brand.* Note 11 (Collisons · Silbermann) is the team-building layer — *the first ten hires are really your first hundred.* Note 12 (Aaron Levie) is the enterprise layer — *the market is 22× bigger; win it with a wedge and consumer DNA.* Note 13 (Reid Hoffman) is the founder-mindset layer — *hold the paradoxes, and persist or pivot on your thesis's confidence.* Note 14 (Keith Rabois) is the operating layer — *edit the company, and multiply your barrels.* Note 15 (Ben Horowitz) is the management layer — *every decision is read by the whole company, so weigh all three perspectives.* Note 16 (Emmett Shear) is the user-research layer — *interview behavior not features, across all three user groups.* Note 17 (Hosain Rahman) is the hardware/product layer — *build the whole system around a WHY people can't live without.* Note 18 (Nathoo · Levy) is the mechanics layer — *keep the legal/finance/HR plumbing simple and standard so it never bites you.* Note 19 (Bosmeny · Seibel) is the go-to-market layer — *you are the salesperson; shut up and listen, and pitch in 30 seconds then 2 minutes.*
+> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.* Note 09 (Andreessen · Conway · Conrad) is the capital layer — *be so good they can't ignore you, and peel risk round by round.* Note 10 (Lin · Chesky) is the culture layer — *design your values and hire for them, because culture becomes brand.* Note 11 (Collisons · Silbermann) is the team-building layer — *the first ten hires are really your first hundred.* Note 12 (Aaron Levie) is the enterprise layer — *the market is 22× bigger; win it with a wedge and consumer DNA.* Note 13 (Reid Hoffman) is the founder-mindset layer — *hold the paradoxes, and persist or pivot on your thesis's confidence.* Note 14 (Keith Rabois) is the operating layer — *edit the company, and multiply your barrels.* Note 15 (Ben Horowitz) is the management layer — *every decision is read by the whole company, so weigh all three perspectives.* Note 16 (Emmett Shear) is the user-research layer — *interview behavior not features, across all three user groups.* Note 17 (Hosain Rahman) is the hardware/product layer — *build the whole system around a WHY people can't live without.* Note 18 (Nathoo · Levy) is the mechanics layer — *keep the legal/finance/HR plumbing simple and standard so it never bites you.* Note 19 (Bosmeny · Seibel) is the go-to-market layer — *you are the salesperson; shut up and listen, and pitch in 30 seconds then 2 minutes.* Note 20 (Sam Altman) is the scaling layer — *shift from building a product to building a company, and survive the long trough of sorrow.*
 
 ## The big ideas at a glance
 
@@ -87,24 +90,19 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | **Vesting curve** — 4 years, 1-year cliff | **Mechanics lifecycle** — do this, avoid that |
 | ![Sales funnel](assets/sales-funnel.svg) | ![Pitch structure](assets/pitch-structure.svg) |
 | **Sales funnel** — prospect → shut up → close | **Pitch structure** — 30 seconds, then 2 minutes |
+| ![Product to company](assets/product-to-company.svg) | ![Trough of sorrow](assets/trough-of-sorrow.svg) |
+| **Product → company** — the founder's shift | **Trough of sorrow** — survive ~1,000 days |
 
-## Backlog
+## Course complete 🎉
 
-- [x] ~~Lecture 3 — *Counterintuitive Parts of Startups, and How to Have Ideas* (Paul Graham)~~ → [note 03](03-counterintuitive-and-ideas-paul-graham.md)
-- [x] ~~Lecture 4 — *Building Product, Talking to Users, and Growing* (Adora Cheung)~~ → [note 04](04-product-users-growth-adora-cheung.md)
-- [x] ~~Lecture 5 — *Business Strategy and Monopoly Theory* (Peter Thiel)~~ → [note 05](05-monopoly-theory-peter-thiel.md)
-- [x] ~~Lecture 6 — *Growth* (Alex Schultz)~~ → [note 06](06-growth-alex-schultz.md)
-- [x] ~~Lecture 7 — *How to Build Products Users Love, Part I* (Kevin Hale)~~ → [note 07](07-products-users-love-kevin-hale.md)
-- [x] ~~Lecture 8 — *Doing Things That Don't Scale, PR, and How to Get Started* (Tang · Williams · Kan)~~ → [note 08](08-dont-scale-and-pr.md)
-- [x] ~~Lecture 9 — *How to Raise Money* (Andreessen · Conway · Conrad)~~ → [note 09](09-how-to-raise-money.md)
-- [x] ~~Lecture 10 — *Company Culture and Building a Team, Part I* (Lin · Chesky)~~ → [note 10](10-culture-and-team-part-i.md)
-- [x] ~~Lecture 11 — *Company Culture and Building a Team, Part II* (Collisons · Silbermann)~~ → [note 11](11-culture-and-team-part-ii.md)
-- [x] ~~Lecture 12 — *Building for the Enterprise* (Aaron Levie)~~ → [note 12](12-building-for-the-enterprise-aaron-levie.md)
-- [x] ~~Lecture 13 — *How to Be a Great Founder* (Reid Hoffman)~~ → [note 13](13-how-to-be-a-great-founder-reid-hoffman.md)
-- [x] ~~Lecture 14 — *How to Operate* (Keith Rabois)~~ → [note 14](14-how-to-operate-keith-rabois.md)
-- [x] ~~Lecture 15 — *How to Manage* (Ben Horowitz)~~ → [note 15](15-how-to-manage-ben-horowitz.md)
-- [x] ~~Lecture 16 — *How to Run a User Interview* (Emmett Shear)~~ → [note 16](16-how-to-run-a-user-interview-emmett-shear.md)
-- [x] ~~Lecture 17 — *How to Build Products Users Love, Part II* (Hosain Rahman)~~ → [note 17](17-products-users-love-part-ii-hosain-rahman.md)
-- [x] ~~Lecture 18 — *Mechanics: Legal, Finance, HR, etc.* (Nathoo · Levy)~~ → [note 18](18-mechanics-legal-finance-hr.md)
-- [x] ~~Lecture 19 — *Sales and Marketing, How to Pitch* (Bosmeny · Seibel · panel)~~ → [note 19](19-sales-and-how-to-pitch.md)
-- [ ] Lecture 20 — *Closing Thoughts and Later-Stage Advice* (Sam Altman) — the finale
+All **20 CS183B lectures** are captured — from *why to start* to *how to scale*:
+
+| Lectures | Arc |
+|---|---|
+| **01–05** | Idea, product, team, execution · monopoly strategy · how ideas arrive |
+| **06–09** | Growth, products users love, doing things that don't scale, raising money |
+| **10–13** | Culture & team · enterprise · being a great founder |
+| **14–17** | Operating, managing, user interviews, hardware products |
+| **18–20** | Legal/finance/HR mechanics · sales & pitching · scaling & closing thoughts |
+
+*Next sources to add when I find them: Paul Graham's essays, **Zero to One**, **The Hard Thing About Hard Things**, **High Output Management**.*
