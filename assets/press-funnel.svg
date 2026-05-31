@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Getting press is a sales funnel</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Not everyone converts — start from a goal, audience, and an "original enough" story</text>
+
+  <!-- Left: the 6 steps -->
+  <text x="120" y="132" font-size="16" font-weight="700" fill="#1A1A1A">The process</text>
+  <g>
+    <!-- step rows -->
+    <g font-size="14.5">
+      <circle cx="132" cy="170" r="13" fill="#F1592A"/><text x="132" y="175" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">1</text>
+      <text x="158" y="167" font-weight="700" fill="#1A1A1A">Frame it as a story</text>
+      <text x="158" y="186" font-size="12.5" fill="#9AA3B2">would you read it if you weren't the founder?</text>
+
+      <circle cx="132" cy="222" r="13" fill="#F1592A"/><text x="132" y="227" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">2</text>
+      <text x="158" y="219" font-weight="700" fill="#1A1A1A">Get a warm intro</text>
+      <text x="158" y="238" font-size="12.5" fill="#9AA3B2">via an entrepreneur they just covered — not cold email</text>
+
+      <circle cx="132" cy="274" r="13" fill="#F1592A"/><text x="132" y="279" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">3</text>
+      <text x="158" y="271" font-weight="700" fill="#1A1A1A">Give lead time + meet</text>
+      <text x="158" y="290" font-size="12.5" fill="#9AA3B2">≥1 week; face-to-face beats email (sunk cost)</text>
+
+      <circle cx="132" cy="326" r="13" fill="#F1592A"/><text x="132" y="331" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">4</text>
+      <text x="158" y="323" font-weight="700" fill="#1A1A1A">Pitch memorized bullets</text>
+      <text x="158" y="342" font-size="12.5" fill="#9AA3B2">their notes become the article — steer it</text>
+
+      <circle cx="132" cy="378" r="13" fill="#F1592A"/><text x="132" y="383" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">5</text>
+      <text x="158" y="375" font-weight="700" fill="#1A1A1A">Follow up with collateral</text>
+      <text x="158" y="394" font-size="12.5" fill="#9AA3B2">photos, spellings — bold what matters</text>
+
+      <circle cx="132" cy="430" r="13" fill="#F1592A"/><text x="132" y="435" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">6</text>
+      <text x="158" y="427" font-weight="700" fill="#1A1A1A">Launch day — they publish</text>
+      <text x="158" y="446" font-size="12.5" fill="#9AA3B2">you press submit at the same time</text>
+    </g>
+  </g>
+
+  <!-- Right: the 7 story types -->
+  <line x1="620" y1="120" x2="620" y2="450" stroke="#E2E6ED" stroke-width="2"/>
+  <text x="648" y="132" font-size="16" font-weight="700" fill="#1A1A1A">The 7 story types</text>
+  <g font-size="14" fill="#5A6475">
+    <text x="648" y="168">📦  product launch</text>
+    <text x="648" y="198">💰  fundraising</text>
+    <text x="648" y="228">📈  milestone / metric</text>
+    <text x="648" y="258">📰  business story (later)</text>
+    <text x="648" y="288">🧊  stunt</text>
+    <text x="648" y="318">👤  hiring announcement</text>
+    <text x="648" y="348">✍️  contributor article</text>
+  </g>
+
+  <rect x="648" y="372" width="300" height="74" rx="10" fill="#FFF1EA" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="666" y="398" font-size="13.5" font-weight="700" fill="#C2552E">Press is a vanity metric.</text>
+  <text x="666" y="418" font-size="12.5" fill="#5A6475">Great for the first ~1,000 users —</text>
+  <text x="666" y="434" font-size="12.5" fill="#5A6475">not a scalable acquisition channel.</text>
+
+  <text x="520" y="500" text-anchor="middle" font-size="14" fill="#8A94A6">DIY before hiring a firm — only you know what's actually interesting about your company.</text>
+</svg>

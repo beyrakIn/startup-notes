@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="60" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Your first users are the hardest</text>
+  <text x="520" y="90" text-anchor="middle" font-size="16" fill="#8A94A6">Pushing the boulder: steepest at the start — then it rolls on its own</text>
+
+  <!-- the hill: steep at left, flattening, then a downslope at the top-right -->
+  <path d="M110 470 C260 460 330 300 470 220 C560 168 660 150 760 150 L900 150 L900 470 Z"
+        fill="#F4F6F9"/>
+  <path d="M110 470 C260 460 330 300 470 220 C560 168 660 150 760 150"
+        fill="none" stroke="#C2CAD6" stroke-width="3"/>
+
+  <!-- boulder near the steep bottom -->
+  <circle cx="250" cy="392" r="26" fill="#F1592A"/>
+  <!-- push arrow -->
+  <path d="M205 410 C220 404 230 400 238 396" fill="none" stroke="#1A1A1A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M238 396 l-13 -1 l6 9 z" fill="#1A1A1A"/>
+
+  <!-- ghost boulder rolling at the top -->
+  <circle cx="775" cy="135" r="22" fill="#F1592A" opacity="0.35"/>
+  <path d="M800 140 c30 8 55 22 78 44" fill="none" stroke="#F1592A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M878 184 l-2 -15 l-11 8 z" fill="#F1592A"/>
+
+  <!-- annotations -->
+  <text x="250" y="448" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A">first users</text>
+  <text x="250" y="466" text-anchor="middle" font-size="12" fill="#9AA3B2">hardest · personal effort</text>
+
+  <text x="520" y="276" text-anchor="middle" font-size="13" fill="#5A6475">incline steadies — it gets easier</text>
+
+  <text x="788" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#C2552E">word of mouth</text>
+  <text x="858" y="210" text-anchor="middle" font-size="12" fill="#9AA3B2">rolls on its own</text>
+
+  <text x="520" y="524" text-anchor="middle" font-size="14" fill="#8A94A6">No silver bullet for acquisition — and don't give it away free. Make users value it.</text>
+</svg>
