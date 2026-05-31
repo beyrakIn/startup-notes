@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Start intentionally small — the wedge</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">You can't beat the full suite head-on — slip into a gap, then expand</text>
+
+  <!-- incumbent suite blocks with a gap the wedge enters -->
+  <rect x="150" y="150" width="740" height="60" rx="8" fill="#EEF1F5" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="520" y="187" text-anchor="middle" font-size="14" font-weight="700" fill="#9AA3B2">incumbent suite — the "full solution"</text>
+
+  <rect x="150" y="392" width="740" height="60" rx="8" fill="#EEF1F5" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="520" y="429" text-anchor="middle" font-size="14" font-weight="700" fill="#9AA3B2">incumbent suite — the "full solution"</text>
+
+  <!-- the wedge: thin tip on left, widening to the right -->
+  <path d="M150 300 L880 224 L880 378 Z" fill="#F1592A"/>
+
+  <!-- stage labels along the wedge -->
+  <text x="245" y="304" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">wedge</text>
+
+  <text x="470" y="296" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">one painful use case</text>
+  <text x="470" y="316" text-anchor="middle" font-size="12.5" fill="#FFE3D6">dead-simple UX</text>
+
+  <text x="740" y="288" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">expand over time</text>
+  <text x="740" y="308" text-anchor="middle" font-size="12.5" fill="#FFE3D6">more use cases ·</text>
+  <text x="740" y="324" text-anchor="middle" font-size="12.5" fill="#FFE3D6">larger customers · platform</text>
+
+  <!-- time arrow -->
+  <path d="M150 478 L880 478" fill="none" stroke="#C2CAD6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M880 478 l-14 -6 l0 12 z" fill="#C2CAD6"/>
+  <text x="515" y="498" text-anchor="middle" font-size="13" fill="#8A94A6">time  →</text>
+
+  <text x="520" y="528" text-anchor="middle" font-size="14" fill="#8A94A6">ZenPayroll → the worst slice of payroll. Box → just file sharing. Then both expanded.</text>
+</svg>
