@@ -16,8 +16,9 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | 06 | [Growth](06-growth-alex-schultz.md) | Alex Schultz — Lecture 6 | Retention is everything; North Star · magic moment · marginal user; virality & tactics. |
 | 07 | [Building Products Users Love, Part I](07-products-users-love-kevin-hale.md) | Kevin Hale — Lecture 7 | New users = dating, existing = marriage; support-driven dev; the knowledge gap. |
 | 08 | [Doing Things That Don't Scale, PR & How to Get Started](08-dont-scale-and-pr.md) | Tang · Williams · Kan — Lecture 8 | One-hour experiments, the first-users boulder, champions, and how press really works. |
+| 09 | [How to Raise Money](09-how-to-raise-money.md) | Andreessen · Conway · Conrad — Lecture 9 | Outlier math, the onion theory of risk, terms, and choosing investors like a marriage. |
 
-> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.*
+> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.* Note 09 (Andreessen · Conway · Conrad) is the capital layer — *be so good they can't ignore you, and peel risk round by round.*
 
 ## The big ideas at a glance
 
@@ -54,6 +55,8 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | **Dating → marriage** — love at human scale | **Knowledge gap** — lower it, don't add features |
 | ![Boulder uphill](assets/boulder-uphill.svg) | ![Press funnel](assets/press-funnel.svg) |
 | **First-users boulder** — hardest at the start | **Press funnel** — story types + the process |
+| ![Onion of risk](assets/onion-risk.svg) | ![Outlier funnel](assets/outlier-funnel.svg) |
+| **Onion of risk** — peel a layer each round | **Outlier math** — 15 companies, 97% of returns |
 
 ## Backlog
 
@@ -63,5 +66,6 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 - [x] ~~Lecture 6 — *Growth* (Alex Schultz)~~ → [note 06](06-growth-alex-schultz.md)
 - [x] ~~Lecture 7 — *How to Build Products Users Love, Part I* (Kevin Hale)~~ → [note 07](07-products-users-love-kevin-hale.md)
 - [x] ~~Lecture 8 — *Doing Things That Don't Scale, PR, and How to Get Started* (Tang · Williams · Kan)~~ → [note 08](08-dont-scale-and-pr.md)
-- [ ] Lecture 9 — *How to Raise Money* (panel)
-- [ ] Lecture 10 — *Company Culture and Building a Team, Part I*
+- [x] ~~Lecture 9 — *How to Raise Money* (Andreessen · Conway · Conrad)~~ → [note 09](09-how-to-raise-money.md)
+- [ ] Lecture 10 — *Company Culture and Building a Team, Part I* (Brian Chesky, Alfred Lin)
+- [ ] Lecture 11 — *Company Culture and Building a Team, Part II* (Patrick & John Collison, Ben Silbermann)

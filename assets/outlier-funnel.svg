@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Venture capital is a game of extreme outliers</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Each year, roughly…</text>
+
+  <!-- Funnel centered at x=360 -->
+  <g>
+    <!-- stage 1 -->
+    <path d="M120 132 L600 132 L552 196 L168 196 Z" fill="#FDE7DC"/>
+    <text x="360" y="172" text-anchor="middle" font-size="18" font-weight="700" fill="#5A6475">4,000 venture-fundable companies</text>
+
+    <!-- stage 2 -->
+    <path d="M168 204 L552 204 L504 268 L216 268 Z" fill="#F8B597"/>
+    <text x="360" y="244" text-anchor="middle" font-size="18" font-weight="700" fill="#1A1A1A">200 funded by a top-tier VC</text>
+
+    <!-- stage 3 -->
+    <path d="M216 276 L504 276 L456 340 L264 340 Z" fill="#F1592A"/>
+    <text x="360" y="304" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff">15 reach $100M revenue</text>
+  </g>
+
+  <!-- payoff callout -->
+  <path d="M360 348 L360 374" stroke="#C2CAD6" stroke-width="2.5" stroke-dasharray="2 6"/>
+  <path d="M360 374 l-7 -13 l14 0 z" fill="#C2CAD6"/>
+  <rect x="186" y="384" width="348" height="70" rx="12" fill="#1A1A1A"/>
+  <text x="360" y="416" text-anchor="middle" font-size="17" fill="#ffffff">those <tspan fill="#F1592A" font-weight="800">15</tspan> generate ~<tspan fill="#F1592A" font-weight="800">97%</tspan> of</text>
+  <text x="360" y="440" text-anchor="middle" font-size="17" fill="#ffffff">all VC returns that year</text>
+
+  <!-- right side principle -->
+  <line x1="648" y1="150" x2="648" y2="452" stroke="#E2E6ED" stroke-width="2"/>
+  <text x="676" y="190" font-size="18" font-weight="700" fill="#1A1A1A">Invest in strength,</text>
+  <text x="676" y="216" font-size="18" font-weight="700" fill="#1A1A1A">not lack of weakness</text>
+  <text x="676" y="252" font-size="14" fill="#5A6475">Checkbox deals (founder ✓ idea ✓</text>
+  <text x="676" y="272" font-size="14" fill="#5A6475">product ✓ customers ✓) rarely</text>
+  <text x="676" y="292" font-size="14" fill="#5A6475">become outliers.</text>
+  <text x="676" y="330" font-size="14" fill="#5A6475">The big winners have one</text>
+  <text x="676" y="350" font-size="14" fill="#5A6475"><tspan font-weight="700" fill="#F1592A">extreme strength</tspan> — and often</text>
+  <text x="676" y="370" font-size="14" fill="#5A6475">serious flaws you tolerate.</text>
+
+  <text x="520" y="500" text-anchor="middle" font-size="14" fill="#8A94A6">You're one of the 15 or you're not — so being "obviously fundable" isn't enough.</text>
+</svg>

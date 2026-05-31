@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The onion theory of risk</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Day one a startup is all risk — each round peels a layer by hitting milestones</text>
+
+  <!-- Onion centered at (340, 330) -->
+  <g>
+    <circle cx="340" cy="330" r="196" fill="#FFF4EF"/>
+    <circle cx="340" cy="330" r="164" fill="#FDE7DC"/>
+    <circle cx="340" cy="330" r="132" fill="#FBD2BE"/>
+    <circle cx="340" cy="330" r="100" fill="#F8B597"/>
+    <circle cx="340" cy="330" r="68" fill="#F2855B"/>
+    <circle cx="340" cy="330" r="36" fill="#F1592A"/>
+    <circle cx="340" cy="330" r="196" fill="none" stroke="#F1592A" stroke-width="1" opacity="0.3"/>
+  </g>
+
+  <!-- band labels (stacked up the vertical center, each in its band above the core) -->
+  <text x="340" y="150" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1A1A1A">founding-team risk</text>
+  <text x="340" y="182" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1A1A1A">product risk</text>
+  <text x="340" y="214" text-anchor="middle" font-size="13.5" font-weight="700" fill="#5A6475">technical · launch risk</text>
+  <text x="340" y="246" text-anchor="middle" font-size="13.5" font-weight="700" fill="#5A6475">market risk</text>
+  <text x="340" y="278" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">revenue risk</text>
+  <text x="340" y="326" text-anchor="middle" font-size="12.5" font-weight="800" fill="#ffffff">OUTLIER</text>
+  <text x="340" y="342" text-anchor="middle" font-size="10.5" fill="#ffffff">outcome</text>
+
+  <!-- right panel: rounds peel layers -->
+  <line x1="620" y1="150" x2="620" y2="470" stroke="#E2E6ED" stroke-width="2"/>
+  <text x="648" y="172" font-size="16" font-weight="700" fill="#1A1A1A">Each round peels a layer</text>
+
+  <g font-size="14.5">
+    <circle cx="660" cy="214" r="5" fill="#F2855B"/>
+    <text x="676" y="219" font-weight="700" fill="#1A1A1A">Seed</text>
+    <text x="676" y="239" font-size="13" fill="#5A6475">team · product · initial launch</text>
+
+    <circle cx="660" cy="278" r="5" fill="#F8B597"/>
+    <text x="676" y="283" font-weight="700" fill="#1A1A1A">Series A</text>
+    <text x="676" y="303" font-size="13" fill="#5A6475">recruiting · first ~5 customers</text>
+
+    <circle cx="660" cy="342" r="5" fill="#FBD2BE"/>
+    <text x="676" y="347" font-weight="700" fill="#1A1A1A">Series B / C</text>
+    <text x="676" y="367" font-size="13" fill="#5A6475">revenue · cost of sales · scale</text>
+  </g>
+
+  <rect x="648" y="396" width="300" height="62" rx="10" fill="#FFF1EA" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="664" y="420" font-size="13" fill="#5A6475">raise → hit milestones → kill risk</text>
+  <text x="664" y="440" font-size="13" font-weight="700" fill="#C2552E">→ justify the next round</text>
+
+  <text x="520" y="506" text-anchor="middle" font-size="14" fill="#8A94A6">Calibrate money raised &amp; spent to the risks you're removing — not "raise as much as you can and hope."</text>
+</svg>
