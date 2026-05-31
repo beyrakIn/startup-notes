@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Your first 10 hires are really your first 100</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">Each early hire is a "DNA chip" — they each bring along ~10 more like them</text>
+
+  <!-- left: 10 founding hires -->
+  <text x="200" y="148" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">the first 10</text>
+  <g fill="#F1592A">
+    <circle cx="170" cy="186" r="12"/><circle cx="230" cy="186" r="12"/>
+    <circle cx="170" cy="226" r="12"/><circle cx="230" cy="226" r="12"/>
+    <circle cx="170" cy="266" r="12"/><circle cx="230" cy="266" r="12"/>
+    <circle cx="170" cy="306" r="12"/><circle cx="230" cy="306" r="12"/>
+    <circle cx="170" cy="346" r="12"/><circle cx="230" cy="346" r="12"/>
+  </g>
+  <text x="200" y="392" text-anchor="middle" font-size="13" fill="#9AA3B2">you choose these</text>
+
+  <!-- middle multiplier -->
+  <text x="395" y="258" text-anchor="middle" font-size="34" font-weight="800" fill="#C2CAD6">× 10</text>
+  <path d="M300 270 C340 270 360 270 470 270" fill="none" stroke="#C2CAD6" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M470 270 l-14 -6 l4 12 z" fill="#C2CAD6"/>
+  <text x="395" y="300" text-anchor="middle" font-size="13" fill="#9AA3B2">each brings ~10</text>
+
+  <!-- right: ~100 -->
+  <text x="660" y="148" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">the next ~100</text>
+  <g fill="#F6A07A">
+    <!-- 10x10 grid = 100 -->
+    <g>
+      <circle cx="545" cy="176" r="6"/><circle cx="570" cy="176" r="6"/><circle cx="595" cy="176" r="6"/><circle cx="620" cy="176" r="6"/><circle cx="645" cy="176" r="6"/><circle cx="670" cy="176" r="6"/><circle cx="695" cy="176" r="6"/><circle cx="720" cy="176" r="6"/><circle cx="745" cy="176" r="6"/><circle cx="770" cy="176" r="6"/>
+      <circle cx="545" cy="195" r="6"/><circle cx="570" cy="195" r="6"/><circle cx="595" cy="195" r="6"/><circle cx="620" cy="195" r="6"/><circle cx="645" cy="195" r="6"/><circle cx="670" cy="195" r="6"/><circle cx="695" cy="195" r="6"/><circle cx="720" cy="195" r="6"/><circle cx="745" cy="195" r="6"/><circle cx="770" cy="195" r="6"/>
+      <circle cx="545" cy="214" r="6"/><circle cx="570" cy="214" r="6"/><circle cx="595" cy="214" r="6"/><circle cx="620" cy="214" r="6"/><circle cx="645" cy="214" r="6"/><circle cx="670" cy="214" r="6"/><circle cx="695" cy="214" r="6"/><circle cx="720" cy="214" r="6"/><circle cx="745" cy="214" r="6"/><circle cx="770" cy="214" r="6"/>
+      <circle cx="545" cy="233" r="6"/><circle cx="570" cy="233" r="6"/><circle cx="595" cy="233" r="6"/><circle cx="620" cy="233" r="6"/><circle cx="645" cy="233" r="6"/><circle cx="670" cy="233" r="6"/><circle cx="695" cy="233" r="6"/><circle cx="720" cy="233" r="6"/><circle cx="745" cy="233" r="6"/><circle cx="770" cy="233" r="6"/>
+      <circle cx="545" cy="252" r="6"/><circle cx="570" cy="252" r="6"/><circle cx="595" cy="252" r="6"/><circle cx="620" cy="252" r="6"/><circle cx="645" cy="252" r="6"/><circle cx="670" cy="252" r="6"/><circle cx="695" cy="252" r="6"/><circle cx="720" cy="252" r="6"/><circle cx="745" cy="252" r="6"/><circle cx="770" cy="252" r="6"/>
+      <circle cx="545" cy="271" r="6"/><circle cx="570" cy="271" r="6"/><circle cx="595" cy="271" r="6"/><circle cx="620" cy="271" r="6"/><circle cx="645" cy="271" r="6"/><circle cx="670" cy="271" r="6"/><circle cx="695" cy="271" r="6"/><circle cx="720" cy="271" r="6"/><circle cx="745" cy="271" r="6"/><circle cx="770" cy="271" r="6"/>
+      <circle cx="545" cy="290" r="6"/><circle cx="570" cy="290" r="6"/><circle cx="595" cy="290" r="6"/><circle cx="620" cy="290" r="6"/><circle cx="645" cy="290" r="6"/><circle cx="670" cy="290" r="6"/><circle cx="695" cy="290" r="6"/><circle cx="720" cy="290" r="6"/><circle cx="745" cy="290" r="6"/><circle cx="770" cy="290" r="6"/>
+      <circle cx="545" cy="309" r="6"/><circle cx="570" cy="309" r="6"/><circle cx="595" cy="309" r="6"/><circle cx="620" cy="309" r="6"/><circle cx="645" cy="309" r="6"/><circle cx="670" cy="309" r="6"/><circle cx="695" cy="309" r="6"/><circle cx="720" cy="309" r="6"/><circle cx="745" cy="309" r="6"/><circle cx="770" cy="309" r="6"/>
+      <circle cx="545" cy="328" r="6"/><circle cx="570" cy="328" r="6"/><circle cx="595" cy="328" r="6"/><circle cx="620" cy="328" r="6"/><circle cx="645" cy="328" r="6"/><circle cx="670" cy="328" r="6"/><circle cx="695" cy="328" r="6"/><circle cx="720" cy="328" r="6"/><circle cx="745" cy="328" r="6"/><circle cx="770" cy="328" r="6"/>
+      <circle cx="545" cy="347" r="6"/><circle cx="570" cy="347" r="6"/><circle cx="595" cy="347" r="6"/><circle cx="620" cy="347" r="6"/><circle cx="645" cy="347" r="6"/><circle cx="670" cy="347" r="6"/><circle cx="695" cy="347" r="6"/><circle cx="720" cy="347" r="6"/><circle cx="745" cy="347" r="6"/><circle cx="770" cy="347" r="6"/>
+    </g>
+  </g>
+  <text x="660" y="392" text-anchor="middle" font-size="13" fill="#9AA3B2">you don't — but they define the company</text>
+
+  <text x="520" y="452" text-anchor="middle" font-size="14.5" fill="#5A6475">Get the first ten right and the culture compounds. Get them wrong and the company never recovers.</text>
+  <text x="520" y="500" text-anchor="middle" font-size="14" fill="#8A94A6">So hire slowly, work with them first, and only take people who raise the bar.</text>
+</svg>

@@ -18,8 +18,9 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | 08 | [Doing Things That Don't Scale, PR & How to Get Started](08-dont-scale-and-pr.md) | Tang · Williams · Kan — Lecture 8 | One-hour experiments, the first-users boulder, champions, and how press really works. |
 | 09 | [How to Raise Money](09-how-to-raise-money.md) | Andreessen · Conway · Conrad — Lecture 9 | Outlier math, the onion theory of risk, terms, and choosing investors like a marriage. |
 | 10 | [Company Culture & Building a Team, Part I](10-culture-and-team-part-i.md) | Lin · Chesky — Lecture 10 | Designing core values, the five dysfunctions, hiring on values, culture = brand. |
+| 11 | [Company Culture & Building a Team, Part II](11-culture-and-team-part-ii.md) | Collison · Collison · Silbermann — Lecture 11 | Hiring the first ten, value-investor talent, references, onboarding, scaling transparency. |
 
-> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.* Note 09 (Andreessen · Conway · Conrad) is the capital layer — *be so good they can't ignore you, and peel risk round by round.* Note 10 (Lin · Chesky) is the culture layer — *design your values and hire for them, because culture becomes brand.*
+> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.* Note 08 (Tang · Williams · Kan) is the hustle layer — *do things that don't scale, and treat press as a tool.* Note 09 (Andreessen · Conway · Conrad) is the capital layer — *be so good they can't ignore you, and peel risk round by round.* Note 10 (Lin · Chesky) is the culture layer — *design your values and hire for them, because culture becomes brand.* Note 11 (Collisons · Silbermann) is the team-building layer — *the first ten hires are really your first hundred.*
 
 ## The big ideas at a glance
 
@@ -60,6 +61,8 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | **Onion of risk** — peel a layer each round | **Outlier math** — 15 companies, 97% of returns |
 | ![Five dysfunctions](assets/five-dysfunctions.svg) | ![Culture & brand coin](assets/culture-brand-coin.svg) |
 | **Five dysfunctions** — build up from trust | **Culture = brand** — two sides of one coin |
+| ![First ten multiplier](assets/first-ten-multiplier.svg) | ![Value-investor hiring](assets/value-investor-hiring.svg) |
+| **First 10 = 100** — the DNA multiplier | **Value-investor hiring** — find undervalued talent |
 
 ## Backlog
 
@@ -71,5 +74,6 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 - [x] ~~Lecture 8 — *Doing Things That Don't Scale, PR, and How to Get Started* (Tang · Williams · Kan)~~ → [note 08](08-dont-scale-and-pr.md)
 - [x] ~~Lecture 9 — *How to Raise Money* (Andreessen · Conway · Conrad)~~ → [note 09](09-how-to-raise-money.md)
 - [x] ~~Lecture 10 — *Company Culture and Building a Team, Part I* (Lin · Chesky)~~ → [note 10](10-culture-and-team-part-i.md)
-- [ ] Lecture 11 — *Company Culture and Building a Team, Part II* (Patrick & John Collison, Ben Silbermann)
-- [ ] Lecture 12 — *Building for the Enterprise* / *Sales and Marketing*
+- [x] ~~Lecture 11 — *Company Culture and Building a Team, Part II* (Collisons · Silbermann)~~ → [note 11](11-culture-and-team-part-ii.md)
+- [ ] Lecture 12 — *Building for the Enterprise* (Aaron Levie)
+- [ ] Lecture 13 — *How to Be a Great Founder* (Reid Hoffman)
