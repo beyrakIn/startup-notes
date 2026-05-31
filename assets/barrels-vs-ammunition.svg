@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Barrels vs. ammunition</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">More people doesn't mean more output — your velocity is your number of barrels</text>
+
+  <!-- Barrels panel (left) -->
+  <rect x="70" y="120" width="420" height="330" rx="16" fill="#FFF8F5" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="280" y="158" text-anchor="middle" font-size="22" font-weight="800" fill="#F1592A">BARRELS</text>
+  <text x="280" y="182" text-anchor="middle" font-size="13" font-style="italic" fill="#9AA3B2">rare · culturally specific</text>
+
+  <!-- 3 barrels firing -->
+  <g>
+    <rect x="110" y="216" width="86" height="30" rx="8" fill="#F1592A"/>
+    <circle cx="206" cy="231" r="7" fill="#F2855B"/>
+    <path d="M220 231 h150" stroke="#F6C3AC" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round"/>
+    <path d="M370 231 l-12 -6 l0 12 z" fill="#F6C3AC"/>
+
+    <rect x="110" y="266" width="86" height="30" rx="8" fill="#F1592A"/>
+    <circle cx="206" cy="281" r="7" fill="#F2855B"/>
+    <path d="M220 281 h150" stroke="#F6C3AC" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round"/>
+    <path d="M370 281 l-12 -6 l0 12 z" fill="#F6C3AC"/>
+
+    <rect x="110" y="316" width="86" height="30" rx="8" fill="#F1592A"/>
+    <circle cx="206" cy="331" r="7" fill="#F2855B"/>
+    <path d="M220 331 h150" stroke="#F6C3AC" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round"/>
+    <path d="M370 331 l-12 -6 l0 12 z" fill="#F6C3AC"/>
+  </g>
+
+  <text x="280" y="384" text-anchor="middle" font-size="13.5" fill="#1A1A1A" font-weight="600">take an idea conception → shipping,</text>
+  <text x="280" y="404" text-anchor="middle" font-size="13.5" fill="#1A1A1A" font-weight="600">and bring people with them</text>
+  <text x="280" y="430" text-anchor="middle" font-size="12.5" fill="#C2552E">→ give them equity · promote · keep them</text>
+
+  <!-- Ammunition panel (right) -->
+  <rect x="550" y="120" width="420" height="330" rx="16" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="760" y="158" text-anchor="middle" font-size="22" font-weight="800" fill="#5A6475">AMMUNITION</text>
+  <text x="760" y="182" text-anchor="middle" font-size="13" font-style="italic" fill="#9AA3B2">most great people are this</text>
+
+  <!-- ammo dots grid -->
+  <g fill="#B8C0CE">
+    <circle cx="610" cy="226" r="8"/><circle cx="648" cy="226" r="8"/><circle cx="686" cy="226" r="8"/><circle cx="724" cy="226" r="8"/><circle cx="762" cy="226" r="8"/><circle cx="800" cy="226" r="8"/><circle cx="838" cy="226" r="8"/><circle cx="876" cy="226" r="8"/><circle cx="914" cy="226" r="8"/>
+    <circle cx="610" cy="264" r="8"/><circle cx="648" cy="264" r="8"/><circle cx="686" cy="264" r="8"/><circle cx="724" cy="264" r="8"/><circle cx="762" cy="264" r="8"/><circle cx="800" cy="264" r="8"/><circle cx="838" cy="264" r="8"/><circle cx="876" cy="264" r="8"/><circle cx="914" cy="264" r="8"/>
+    <circle cx="610" cy="302" r="8"/><circle cx="648" cy="302" r="8"/><circle cx="686" cy="302" r="8"/><circle cx="724" cy="302" r="8"/><circle cx="762" cy="302" r="8"/><circle cx="800" cy="302" r="8"/><circle cx="838" cy="302" r="8"/><circle cx="876" cy="302" r="8"/><circle cx="914" cy="302" r="8"/>
+    <circle cx="610" cy="340" r="8"/><circle cx="648" cy="340" r="8"/><circle cx="686" cy="340" r="8"/><circle cx="724" cy="340" r="8"/><circle cx="762" cy="340" r="8"/><circle cx="800" cy="340" r="8"/><circle cx="838" cy="340" r="8"/><circle cx="876" cy="340" r="8"/><circle cx="914" cy="340" r="8"/>
+  </g>
+  <text x="760" y="392" text-anchor="middle" font-size="13.5" fill="#1A1A1A" font-weight="600">powerful — but they need a barrel</text>
+  <text x="760" y="412" text-anchor="middle" font-size="13.5" fill="#1A1A1A" font-weight="600">to fire through</text>
+  <text x="760" y="438" text-anchor="middle" font-size="12.5" fill="#5A6475">don't hire more until you have more barrels</text>
+
+  <text x="520" y="492" text-anchor="middle" font-size="15" fill="#1A1A1A" font-weight="700">1 → 2 barrels = 2× output. Ratio ≈ 1 barrel : 10–20 ammunition.</text>
+  <text x="520" y="524" text-anchor="middle" font-size="14" fill="#8A94A6">Spot a barrel: expand someone's scope until it breaks; watch who others walk over to.</text>
+</svg>
