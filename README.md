@@ -14,8 +14,9 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | 04 | [Building Product, Talking to Users & Growing](04-product-users-growth-adora-cheung.md) | Adora Cheung — Lecture 4 | Zero→many users: immerse, talk to users, retention, the 3 growth types. |
 | 05 | [Business Strategy & Monopoly Theory](05-monopoly-theory-peter-thiel.md) | Peter Thiel — Lecture 5 | Competition is for losers; value = X×Y; build a durable monopoly. |
 | 06 | [Growth](06-growth-alex-schultz.md) | Alex Schultz — Lecture 6 | Retention is everything; North Star · magic moment · marginal user; virality & tactics. |
+| 07 | [Building Products Users Love, Part I](07-products-users-love-kevin-hale.md) | Kevin Hale — Lecture 7 | New users = dating, existing = marriage; support-driven dev; the knowledge gap. |
 
-> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.*
+> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer — *when* to start and *how ideas arrive.* Note 04 (Adora Cheung) is the tactical playbook — *zero to many users.* Note 05 (Peter Thiel) is the strategy layer — *why to aim for monopoly and how it lasts.* Note 06 (Alex Schultz) is the growth engine — *retention first, then operate for growth.* Note 07 (Kevin Hale) is the love layer — *make users love the product and never stonewall them.*
 
 ## The big ideas at a glance
 
@@ -48,6 +49,8 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 | **Value = X×Y** — capture beats size | **Concentric** — start small, expand |
 | ![Operating for growth](assets/operating-for-growth.svg) | ![Virality](assets/virality.svg) |
 | **Operate for growth** — star · moment · margin | **Virality** — payload × conversion × frequency |
+| ![Dating to marriage](assets/dating-to-marriage.svg) | ![Knowledge gap](assets/knowledge-gap.svg) |
+| **Dating → marriage** — love at human scale | **Knowledge gap** — lower it, don't add features |
 
 ## Backlog
 
@@ -55,5 +58,6 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 - [x] ~~Lecture 4 — *Building Product, Talking to Users, and Growing* (Adora Cheung)~~ → [note 04](04-product-users-growth-adora-cheung.md)
 - [x] ~~Lecture 5 — *Business Strategy and Monopoly Theory* (Peter Thiel)~~ → [note 05](05-monopoly-theory-peter-thiel.md)
 - [x] ~~Lecture 6 — *Growth* (Alex Schultz)~~ → [note 06](06-growth-alex-schultz.md)
-- [ ] Lecture 7 — *How to Build Products Users Love, Part I* (Kevin Hale)
-- [ ] Lecture 8 — *Doing Things That Don't Scale, PR, and How to Get Started*
+- [x] ~~Lecture 7 — *How to Build Products Users Love, Part I* (Kevin Hale)~~ → [note 07](07-products-users-love-kevin-hale.md)
+- [ ] Lecture 8 — *Doing Things That Don't Scale, PR, and How to Get Started* (Stanley Tang, Walker Williams, Justin Kan)
+- [ ] Lecture 9 — *How to Raise Money* (panel)

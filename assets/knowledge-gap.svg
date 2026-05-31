@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">The knowledge gap</text>
+  <text x="520" y="88" text-anchor="middle" font-size="16" fill="#8A94A6">How intuitive your app is = the gap between what users know and what they need to know</text>
+
+  <!-- spectrum bar -->
+  <line x1="120" y1="250" x2="920" y2="250" stroke="#D8DCE4" stroke-width="3"/>
+  <text x="120" y="288" text-anchor="start" font-size="13" fill="#9AA3B2">no knowledge</text>
+  <text x="920" y="288" text-anchor="end" font-size="13" fill="#9AA3B2">all knowledge needed</text>
+
+  <!-- the gap highlight -->
+  <path d="M330 250 L700 250" stroke="#F1592A" stroke-width="8" stroke-linecap="round" opacity="0.25"/>
+  <text x="515" y="240" text-anchor="middle" font-size="15" font-weight="700" fill="#C2552E">THE GAP</text>
+
+  <!-- current knowledge marker -->
+  <line x1="330" y1="212" x2="330" y2="250" stroke="#1A1A1A" stroke-width="2.5"/>
+  <circle cx="330" cy="250" r="8" fill="#1A1A1A"/>
+  <text x="330" y="200" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">users are here</text>
+
+  <!-- needed knowledge marker -->
+  <line x1="700" y1="212" x2="700" y2="250" stroke="#F1592A" stroke-width="2.5"/>
+  <circle cx="700" cy="250" r="8" fill="#F1592A"/>
+  <text x="700" y="200" text-anchor="middle" font-size="14" font-weight="700" fill="#F1592A">app needs them here</text>
+
+  <!-- two ways to close it -->
+  <text x="520" y="340" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A">Only two ways to close it</text>
+
+  <!-- method A: raise knowledge -->
+  <rect x="120" y="360" width="370" height="92" rx="12" fill="#F4F6F9" stroke="#D8DCE4" stroke-width="1.5"/>
+  <text x="145" y="396" font-size="17" font-weight="700" fill="#5A6475">↑ Raise user knowledge</text>
+  <text x="145" y="424" font-size="13.5" fill="#9AA3B2">onboarding · docs · tooltips</text>
+
+  <!-- method B: lower knowledge needed -->
+  <rect x="550" y="360" width="370" height="92" rx="12" fill="#FFF1EA" stroke="#F1592A" stroke-width="1.5"/>
+  <text x="575" y="396" font-size="17" font-weight="700" fill="#F1592A">↓ Lower knowledge needed</text>
+  <text x="575" y="424" font-size="13.5" fill="#C2552E">simplify · self-help · better defaults</text>
+
+  <!-- warning -->
+  <rect x="120" y="478" width="800" height="44" rx="10" fill="#1A1A1A"/>
+  <text x="520" y="505" text-anchor="middle" font-size="14" fill="#ffffff">Adding features only <tspan fill="#F1592A" font-weight="700">widens</tspan> the gap — Wufoo cut support 30% overnight by closing it instead.</text>
+</svg>
