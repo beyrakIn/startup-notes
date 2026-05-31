@@ -10,8 +10,9 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 |---|------|--------|----------|
 | 01 | [The Four Pillars](01-four-pillars-sam-altman.md) | Sam Altman — *How to Start a Startup*, Lecture 1 | Idea & Product, deep. Why to start at all. |
 | 02 | [Teams & Execution](02-teams-and-execution.md) | Sam Altman — Lecture 2 | Cofounders, hiring, equity, focus, momentum. |
+| 03 | [Counterintuitive Startups & How to Have Ideas](03-counterintuitive-and-ideas-paul-graham.md) | Paul Graham — Lecture 3 | Suppress your instincts; "just learn"; ideas come as side projects. |
 
-> Together, notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework.
+> Notes 01–02 cover Sam Altman's complete **idea × product × team × execution × luck** framework. Note 03 (Paul Graham) is the mindset layer underneath it — *when* to start and *how ideas actually arrive.*
 
 ## The big ideas at a glance
 
@@ -36,11 +37,11 @@ A personal, source-faithful notebook on building a startup. Each note distills o
 |---|---|
 | ![Four pillars](assets/four-pillars.svg) | ![Love vs Like](assets/love-vs-like.svg) |
 | **Four pillars** — the framework | **Love &gt; Like** — concentrate the love |
-| ![Momentum](assets/momentum.svg) | |
-| **Momentum** — a tiny edge compounds | |
+| ![Momentum](assets/momentum.svg) | ![Leading edge](assets/leading-edge.svg) |
+| **Momentum** — a tiny edge compounds | **Leading edge** — live in the future |
 
 ## Backlog
 
-- [ ] Lecture 3 — *Counterintuitive Parts of Startups, and How to Have Ideas* (Paul Graham)
+- [x] ~~Lecture 3 — *Counterintuitive Parts of Startups, and How to Have Ideas* (Paul Graham)~~ → [note 03](03-counterintuitive-and-ideas-paul-graham.md)
 - [ ] Lecture 4 — *Building Product, Talking to Users, and Growing*
 - [ ] Lecture 5 — *Business Strategy and Monopoly Theory* (Peter Thiel)

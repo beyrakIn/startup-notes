@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1040" height="560" fill="#ffffff"/>
+  <rect x="0" y="0" width="1040" height="6" fill="#F1592A"/>
+
+  <text x="520" y="60" text-anchor="middle" font-size="30" font-weight="700" fill="#1A1A1A">Live at the leading edge</text>
+  <text x="520" y="90" text-anchor="middle" font-size="16" fill="#8A94A6">Technology spreads like a fractal stain — every point on the edge is an interesting problem</text>
+
+  <!-- The stain: mainstream technology already built -->
+  <path d="M360 150
+           C470 150 560 188 580 286
+           C596 358 560 432 470 462
+           C390 488 290 486 220 442
+           C150 398 132 322 152 254
+           C172 190 252 156 330 152 Z"
+        fill="#EEF1F5" stroke="#F1592A" stroke-width="4" stroke-dasharray="3 8" stroke-linecap="round"/>
+
+  <text x="356" y="300" text-anchor="middle" font-size="15" font-weight="600" fill="#9AA3B2">already built</text>
+  <text x="356" y="322" text-anchor="middle" font-size="13" fill="#B4BCC9">(mainstream tech)</text>
+
+  <!-- Idea dots on the edge -->
+  <g fill="#F1592A">
+    <circle cx="580" cy="286" r="7"/>
+    <circle cx="470" cy="462" r="7"/>
+    <circle cx="152" cy="254" r="7"/>
+    <circle cx="330" cy="152" r="7"/>
+    <circle cx="220" cy="442" r="7"/>
+  </g>
+
+  <!-- "ought to exist" floating labels -->
+  <text x="330" y="135" text-anchor="middle" font-size="12" fill="#F1592A" font-weight="600">an idea that</text>
+  <text x="148" y="240" text-anchor="end" font-size="12" fill="#F1592A" font-weight="600">ought to exist</text>
+
+  <!-- "You" pin on the right edge (the future) -->
+  <g transform="translate(588 286)">
+    <path d="M0 -2 C10 -2 17 5 17 14 C17 25 0 40 0 40 C0 40 -17 25 -17 14 C-17 5 -10 -2 0 -2 Z" fill="#1A1A1A"/>
+    <circle cx="0" cy="14" r="6" fill="#ffffff"/>
+  </g>
+  <text x="612" y="300" font-size="14" font-weight="700" fill="#1A1A1A">you</text>
+
+  <!-- Future arrow outward -->
+  <path d="M600 250 C660 220 700 210 760 214" fill="none" stroke="#8A94A6" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M760 214 l-14 -6 l4 12 z" fill="#8A94A6"/>
+  <text x="770" y="208" font-size="14" font-weight="600" fill="#8A94A6">the future →</text>
+
+  <!-- Right-side takeaway panel -->
+  <line x1="700" y1="300" x2="700" y2="470" stroke="#E2E6ED" stroke-width="2"/>
+  <text x="724" y="328" font-size="17" font-weight="700" fill="#1A1A1A">“Live in the future.”</text>
+  <text x="724" y="356" font-size="14" fill="#5A6475">Get to the edge of some</text>
+  <text x="724" y="376" font-size="14" fill="#5A6475">technology out of genuine</text>
+  <text x="724" y="396" font-size="14" fill="#5A6475">curiosity. Then the ideas that</text>
+  <text x="724" y="416" font-size="14" fill="#5A6475">seem prescient to others</text>
+  <text x="724" y="436" font-size="14" fill="#5A6475">will seem <tspan font-weight="700" fill="#F1592A">obvious</tspan> to you.</text>
+
+  <!-- Caption -->
+  <text x="520" y="535" text-anchor="middle" font-size="14" fill="#8A94A6">Don't try to think of startup ideas. Turn your mind into the kind that has them unconsciously — as side projects.</text>
+</svg>
